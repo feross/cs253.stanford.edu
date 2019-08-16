@@ -28,7 +28,7 @@
   },
   "scripts": {
     "build": "node tools/build.js",
-    "deploy": "",
+    "deploy": "npm run build && git push && rsync -a -O -v --delete out/ myth.stanford.edu:'/afs/ir/class/cs253/WWW/'",
     "start": "ecstatic --port 4000 out",
     "test": "standard",
     "watch": "npm run watch-html & npm start",
