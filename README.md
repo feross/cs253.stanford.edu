@@ -1,6 +1,6 @@
 # CS 253: Web Security
 
-> This is the website for the [CS 253 Web Security](https://cs253.stanford.edu) course at [Stanford University](https://stanford.edu).
+> Website for the [CS 253 Web Security](https://cs253.stanford.edu) course at [Stanford University](https://stanford.edu).
 
 ### Stanford University – Fall 2019
 
