@@ -11,10 +11,11 @@
     "url": "https://github.com/feross/cs253.stanford.edu/issues"
   },
   "dependencies": {
-    "normalize.css": "^8.0.1"
+    "normalize.css": "^8.0.1",
+    "ecstatic": "^4.1.2"
   },
   "devDependencies": {
-    "ecstatic": "^4.1.2",
+    "rimraf": "^3.0.0",
     "standard": "^13.1.0"
   },
   "homepage": "https://cs253.stanford.edu",
@@ -26,7 +27,11 @@
     "url": "git@github.com:feross/cs253.stanford.edu.git"
   },
   "scripts": {
+    "build": "node tools/build.js",
+    "deploy": "",
+    "start": "ecstatic --port 4000 out",
     "test": "standard",
-    "watch": "ecstatic --port 4000"
+    "watch": "npm run watch-html & npm start",
+    "watch-html": "nodemon -L --watch src/ --ext js,css,html --exec 'npm run build'"
   }
 }
