@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --color: #111;
+  --background-color: #f8f8f8;
+  --theme-color: #B1040E;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color: #eee;
+    --background-color: #333;
+  }
+}
+
+a:link, a:visited {
+  color: var(--theme-color);
+  text-decoration: none;
+}
+
+a:hover, a:active {
+  text-decoration: underline;
+}
+
+html {
+  font-family: 'Open Sans', sans-serif;
+  color: var(--color);
+  background-color: var(--background-color);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Share Tech Mono', monospace;
+  margin: 1em 0;
+}
+
+.content {
+  max-width: 550px;
+  width: 100%;
+  padding: 20px;
+  margin: 30px auto;
+}
+
+.logo {
+  max-width: 150px;
+  width: 100%
+  margin: 30px 0;
+}

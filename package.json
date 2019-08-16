@@ -1,0 +1,32 @@
+{
+  "name": "cs253.stanford.edu",
+  "description": "CS 253 Web Security - Stanford University",
+  "version": "0.0.0",
+  "author": {
+    "name": "Feross Aboukhadijeh",
+    "email": "feross@feross.org",
+    "url": "http://feross.org/"
+  },
+  "bugs": {
+    "url": "https://github.com/feross/cs253.stanford.edu/issues"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {
+    "ecstatic": "^4.1.2",
+    "standard": "^13.1.0"
+  },
+  "homepage": "https://cs253.stanford.edu",
+  "license": "-",
+  "main": "index.html",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:feross/cs253.stanford.edu.git"
+  },
+  "scripts": {
+    "test": "standard",
+    "watch": "ecstatic --port 4000"
+  }
+}
