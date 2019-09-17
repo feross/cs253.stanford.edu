@@ -1,5 +1,10 @@
 #!/usr/bin/env node
 
+const html = require('remark-html')
+const recommended = require('remark-preset-lint-recommended')
+const remark = require('remark')
+const rimraf = require('rimraf')
+const { join } = require('path')
 const {
   copyFileSync,
   mkdirSync,
@@ -7,8 +12,6 @@ const {
   readFileSync,
   writeFileSync
 } = require('fs')
-const { join } = require('path')
-const rimraf = require('rimraf')
 
 const ROOT_FOLDER = join(__dirname, '..')
 const LAYOUT = join(ROOT_FOLDER, 'src', 'layout.html')
@@ -30,11 +33,20 @@ function run () {
 
   // Read in each page, surround it with layout.html, write it to /out
   readdirSync(PAGES_FOLDER)
-    .forEach(pagePath => {
-      const page = readFileSync(join(PAGES_FOLDER, pagePath), 'utf8')
+    .forEach(async pagePath => {
+      if (!pagePath.endsWith('.md')) {
+        console.log(`Warning: Skipping build of non-markdown file: ${pagePath}`)
+        return
+      }
+      const pageMd = readFileSync(join(PAGES_FOLDER, pagePath), 'utf8')
+      const page = await remark()
+        .use(recommended)
+        .use(html)
+        .process(pageMd)
+
       const outPage = layout.replace(/CONTENT/g, page)
 
-      const outPagePath = join(OUT_FOLDER, pagePath)
+      const outPagePath = join(OUT_FOLDER, pagePath.replace(/\.md$/, '.html'))
       writeFileSync(outPagePath, outPage)
     })
 
