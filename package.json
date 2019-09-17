@@ -35,6 +35,6 @@
     "start": "ecstatic --port 4000 out",
     "test": "standard",
     "watch": "npm run watch-html & npm start",
-    "watch-html": "nodemon -L --watch src/ --ext js,css,html --exec 'npm run build'"
+    "watch-html": "nodemon -L --watch src/ --ext js,css,html,md --exec 'npm run build'"
   }
 }
