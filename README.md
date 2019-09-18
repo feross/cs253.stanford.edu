@@ -4,11 +4,9 @@
 
 ### Stanford University – Fall 2019
 
-| Key | Value |
-|-----|-------|
-| Instructor | Feross Aboukhadijeh |
-| Units | 3 |
-| Prerequisites | [CS 142](https://cs142.stanford.edu) or equivalent web development experience |
+| Instructor | Units | Prerequisites |
+|--|--|--|
+| Feross Aboukhadijeh | 3 | [CS 142](https://cs142.stanford.edu) or equivalent web development experience |
 
 
 ### Course Description
