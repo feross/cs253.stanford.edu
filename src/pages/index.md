@@ -134,7 +134,7 @@ These assignments are tentative and subject to change.
 - Assigned: Monday, October 7
 - Due: Friday, October 18 at 5:00pm
 
-### Assignment 2 – TBD
+### Assignment 2 – Oh What a Tangled Web We Weave 🕸
 
 - Assigned: Monday, October 21
 - Due: Friday, November 1 at 5:00pm
@@ -162,7 +162,10 @@ Attendance at lectures is mandatory. Do not enroll in this course if you are tak
 
 ### Grading
 
-Each of the assignments is worth an equal portion (16.6%) your grade. There is no midterm or final exam.
+- Assignments (75%)
+- Final Exam (25%)
+
+Each assignment is worth 12.5%. There is no midterm.
 
 ### Collaboration Policy
 
