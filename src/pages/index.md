@@ -130,7 +130,7 @@ TBD
   - Lucas Garron ([GitHub](https://github.com) Security)
   - Talk Title: "WebAuthn at GitHub"
 - Reading
-  - TBD
+  - [Guide to Web Authentication](https://webauthn.guide/)
 
 ### Lecture 13 – Nov 5
 
