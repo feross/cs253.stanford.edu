@@ -18,9 +18,9 @@ To submit anonymous feedback to us at any point during the quarter, you may use 
 
 ## Prerequisites
 
-CS 142, or an equivalent amount of web development experience, a prerequisite. Another important prerequisite is that you are curious about web security and excited to learn clever attacks, defenses, and techniques for writing secure code.
+CS 142, or an equivalent amount of web development experience, is a prerequisite. You should also be curious about web security and excited to learn clever attacks, defenses, and techniques for writing secure code.
 
-An introductory security course, such as CS 155, is not a formal prerequisite, but will be very useful to you in this course (and beyond!). The material in this course goes beyond the web security material covered in CS 155.
+An introductory security course, such as CS 155, is not a formal prerequisite. The material in this course is focused specifically on the web, while CS 155 covers security more broadly.
 
 ## Course Staff
 
@@ -34,7 +34,8 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 ## Office Hours
 
-TBD
+- Feross: Thursdays, 3-5pm, TBD
+- Esther: TBD
 
 ## Schedule
 
