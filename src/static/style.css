@@ -4,7 +4,7 @@
 
 :root {
   --color: #111;
-  --background-color: #f8f8f8;
+  --background-color: #fff;
   --theme-color: #B1040E;
 }
 
@@ -12,16 +12,16 @@
   :root {
     --color: #eee;
     --background-color: #222;
+    --theme-color: #ff424d;
   }
 }
 
 a:link, a:visited {
   color: var(--theme-color);
-  text-decoration: none;
 }
 
 a:hover, a:active {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 html {

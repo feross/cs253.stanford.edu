@@ -38,87 +38,150 @@ TBD
 
 ## Schedule
 
-This schedule is tentative and subject to change.
+### Lecture 1 – Sep 24
 
-### Week 1 – Intro to Web Security
+- Topics
+  - HTTP review
+  - HTML review
+  - JavaScript review
+- Reading
+   - [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+   - [Inside look at modern web browser (part 1)](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+   - [Inside look at modern web browser (part 2)](https://developers.google.com/web/updates/2018/09/inside-browser-part2)
+   - [Inside look at modern web browser (part 3)](https://developers.google.com/web/updates/2018/09/inside-browser-part3)
+   - Skim: [HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+   - Skim: [A Re-Introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
-- Web basics review: HTML, HTTP, JavaScript
-- Security overview: Confidentiality, integrity and availability
-- The browser security model
-- JavaScript sandboxing
-- Same-Origin Policy: Origins, iframes, postMessage
-- Relaxing the Same-Origin Policy: Cross-Origin Resource Sharing (CORS)
-- AMP web applications
+### Lecture 2 – Sep 26
 
-### Week 2 – Web Privacy
+- Topics
+  - Sessions
+  - Cookies
+- Reading
+  - TBD
 
-- Web tracking technologies: Third-party HTTP cookies, HTML5 client-side storage
-- Fingerprinting techniques: evercookie, canvas-based methods
-- Panopticlick project
-- DNS Cookies
-- Browser tracking prevention techniques: blocking cookies, Safari Intelligent - Tracking Prevention, Same-Site cookies by default, Tor Browser Bundle techniques
+### Lecture 3 – Oct 1
 
-### Week 3 – Client-Side Web Attacks
+- Topics
+  - Same origin policy
+  - Cross-Site Request Forgery (CSRF)
+- Reading
+  - TBD
 
-- Cross-Site Scripting (XSS): stored and reflected XSS
-- Cross-Site Request Forgery (CSRF)
-- Script injection attacks
-- Frame attacks: Clickjacking, malicious postMessage, window.opener
-- Phishing, User Interface Redressing
-- DNS rebinding
-- Plugins: Flash, Java applets
+### Lecture 4 – Oct 3
 
-### Week 4 – Server-Side Web Attacks
+- TBD
 
-- Business logic flaws
-- Injection attacks: SQL, NoSQL, Shell injection
-- Denial of Service (DoS) techniques: distributed DoS attacks, regular expression - attacks, flooding, POST DoS, ping of death, SyN flooding
-- User uploaded content: browser mime-type sniffing, file naming, same origin - issues, Hash DOS
-- Server fingerprinting
+### Lecture 5 – Oct 8
 
-### Week 5 – Web App Defense Techniques
+- Topics
+  - Client security: The bad old days
+  - Client security: Cross-Site Scripting (XSS)
+- Reading
+  - TBD
 
-- Content Security Policy (CSP)
-- Cross-Origin Resource Sharing (CORS)
-- Disabling browser features using Feature Policy
-- Mitigating XSS: sanitization, Trusted Types web standard, HTTP only cookies
-- Detecting misbehavior: Rate limiting, honey pots
-- Preventing web site scraping
+### Lecture 6 – Oct 10
 
-### Week 6 – Secure Authentication
+- Topics
+  - Client security: Phishing, Denial-of-service
+  - Client security: Leaks
+  - Client security: Side Channels
+- Reading
+  - TBD
 
-- Cryptographic hashes
-- Data breach issues: Password salting, bcrypt, scrypt, rainbow tables
-- 2nd factor authentication  (Duo)
-- Cookies for session management
-- Session hijacking attacks and mitigation
-- CAPTCHA
+### Lecture 7 – Oct 15
 
-### Week 7 – Transport Layer Security
+- Topics
+  - Client security: Web Tracking
+  - Client security: Browser Fingerprinting
+- Reading
+  - TBD
 
-- Secure key exchange: encryption, signatures, certificates, Diffie-Helman
-- Introduction to TLS protocol
-- TLS attacks: Man-in-the-middle, Strip SSL, POODLE, BEAST, CRIME, BREACH, - Heartbleed
-- TLS 1.3 overview, secure cipher suites, forward secrecy
-- Defenses: Strict transport security (HSTS), Public Key Pinning (HPKP), - Certificate Transparency, DNS Certification Authority Authorization (DNS CAA)
-- Server side Javascript security (Node.js, WordPress, etc.)
+### Lecture 8 – Oct 17
 
-### Week 8 – Writing Safe Code
+- TBD
 
-- Defense-in-depth
-- Preventative techniques: Penetration testing, Static analysis
-- Incident detection and response
+### Lecture 9 – Oct 22
 
-### Week 9 – Guest Speakers
+- Topics
+  - Server security: Injection
+  - Server security: Denial of Service
+- Reading
+  - TBD
 
-- Invited industry speakers will give lectures to the class
-- Stay tuned for very exciting guests!
+### Lecture 10 – Oct 24
 
-### Week 10 – Emerging Threats
+- Topics
+  - Server security: Business logic errors
+  - Server security: JavaScript security
+- Reading
+  - TBD
 
-- Side-channel attacks: Spectre and Meltdown on the web
-- Cross-Origin Read Blocking (CORB)
-- Financial incentives: JavaScript cryptocurrency miners, browser extensions
+### Lecture 11 – Oct 29
+
+- Topics
+  - Authentication
+- Reading
+  - TBD
+
+### Lecture 12 – Oct 31
+
+- Guest Lecture
+  - Lucas Garron ([GitHub](https://github.com) Security)
+  - Talk Title: "WebAuthn at GitHub"
+- Reading
+  - TBD
+
+### Lecture 13 – Nov 5
+
+- Topics
+  - Server security: Side Channels
+  - Server security: Local HTTP servers
+- Reading
+  - TBD
+
+### Lecture 14 – Nov 7
+
+- Topics
+  - Browser Architecture
+  - Browser Plugins
+- Reading
+  - TBD
+
+### Lecture 15 – Nov 12
+
+- Topics
+  - Transport Layer Security
+- Reading
+  - TBD
+
+### Lecture 16 – Nov 14
+
+- Guest Lecture
+  - Emily Stark and Chris Palmer ([Google Chrome](https://www.google.com/chrome/) Security)
+  - Talk Title: "Strict Transport Security and Public Key Pinning"
+- Reading
+  - TBD
+
+### Lecture 17 – Nov 19
+
+- TBD
+
+### Lecture 18 – Nov 21
+
+- TBD
+
+### Lecture 19 – Dec 3
+
+- TBD
+
+### Lecture 20 – Dec 5
+
+- Topics
+  - Writing Secure Code
+  - Ecosystem Issues
+- Reading
+  - TBD
 
 ## Assignments
 
