@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .content {
-  max-width: 550px;
+  max-width: 65ch;
   width: 100%;
   padding: 20px;
   margin: 30px auto;
