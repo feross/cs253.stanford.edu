@@ -12,9 +12,9 @@ Tuesdays and Thursdays, 1:30 PM - 2:50 PM in classroom [380-380Y](https://campus
 
 ## Communication
 
-We will primarily use [Piazza](#TODO) for sending out course announcements and answering questions. Please make sure to [sign up](#TODO).
+We will primarily use [Piazza](https://piazza.com/stanford/fall2019/cs253) for sending out course announcements and answering questions. Please make sure to [sign up](https://piazza.com/stanford/fall2019/cs253).
 
-To submit anonymous feedback to us at any point during the quarter, you may use [this form](#TODO).
+To submit anonymous feedback to us at any point during the quarter, you may use [this form](https://forms.gle/WqKuxA2m7oycRuTt7).
 
 ## Prerequisites
 
