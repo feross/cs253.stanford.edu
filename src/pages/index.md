@@ -42,9 +42,9 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 ### Lecture 1 – Sep 24
 
 - Topics
-  - HTTP review
-  - HTML review
-  - JavaScript review
+  - HTTP
+  - HTML
+  - JavaScript
 - Reading
    - [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
    - [Inside look at modern web browser (part 1)](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
