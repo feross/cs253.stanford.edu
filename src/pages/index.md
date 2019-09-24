@@ -34,8 +34,8 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 ## Office Hours
 
-- Feross: Thursdays, 3-5pm, TBD
-- Esther: TBD
+- Feross: Thursdays, 3-5pm, TBD.
+- Esther: Thursdays 11:20am-1:20pm, Fridays 1-3pm. Huang Basement.
 
 ## Schedule
 
