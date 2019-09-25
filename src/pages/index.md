@@ -57,12 +57,12 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
   - [HTTP Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
   - Skim: [HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
 
-### Oct 1: Same origin policy, Cross-Site Request Forgery
+### Oct 01: Same origin policy, Cross-Site Request Forgery
 
-### Oct 3: TBD
+### Oct 03: TBD
 
 
-### Oct 8: Cross-Site Scripting
+### Oct 08: Cross-Site Scripting
 
 ### Oct 10: Phishing, Denial-of-service, Leaks, Side Channels
 
@@ -82,9 +82,9 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 - Reading
   - [Guide to Web Authentication](https://webauthn.guide/)
 
-### Nov 5: Server security: Side Channels, Local HTTP servers
+### Nov 05: Server security: Side Channels, Local HTTP servers
 
-### Nov 7: Browser Architecture, Plugins
+### Nov 07: Browser Architecture, Plugins
 
 ### Nov 12: Transport Layer Security
 
@@ -98,9 +98,9 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 ### Nov 21: TBD
 
-### Dec 3: TBD
+### Dec 03: TBD
 
-### Dec 5: Writing Secure Code, Ecosystem Issues
+### Dec 05: Writing Secure Code, Ecosystem Issues
 
 ## Assignments
 
