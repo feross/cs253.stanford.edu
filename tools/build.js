@@ -5,8 +5,8 @@ const recommended = require('remark-preset-lint-recommended')
 const remark = require('remark')
 const rimraf = require('rimraf')
 const { join } = require('path')
+const { copySync } = require('fs-extra')
 const {
-  copyFileSync,
   mkdirSync,
   readdirSync,
   readFileSync,
@@ -51,16 +51,10 @@ function run () {
     })
 
   // Copy static resources into /out
-  copyFileSync(
+  copySync(
     join(require.resolve('normalize.css')),
     join(OUT_FOLDER, 'normalize.css')
   )
 
-  readdirSync(STATIC_FOLDER)
-    .forEach(filePath => {
-      copyFileSync(
-        join(STATIC_FOLDER, filePath),
-        join(OUT_FOLDER, filePath)
-      )
-    })
+  copySync(STATIC_FOLDER, OUT_FOLDER)
 }
