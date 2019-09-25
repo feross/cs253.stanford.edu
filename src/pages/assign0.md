@@ -194,6 +194,12 @@ npm test
 
 This command just runs a basic sanity test that ensures your project passes `npm run lint`, has the right folder structure, and doesn't have any blank required files. If `npm test` doesn't report any errors that doesn't necessarily mean that you've solved every exercise perfectly!
 
+**🌟 PRO TIP: You can automatically fix most lint errors by running:**
+
+```sh
+npm run lint-fix
+```
+
 ### Gradescope
 
 We'll use [Gradescope](https://gradescope.com) for submissions. Enroll with the code `97BGZB`.
