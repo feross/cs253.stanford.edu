@@ -25,18 +25,17 @@ a:hover, a:active {
 }
 
 html {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Source Code Pro', monospace;
   color: var(--color);
   background-color: var(--background-color);
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Share Tech Mono', monospace;
   margin: 1em 0;
 }
 
 .content {
-  max-width: 65ch;
+  max-width: 70ch;
   width: 100%;
   padding: 20px;
   margin: 30px auto;

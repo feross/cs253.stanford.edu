@@ -41,151 +41,66 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 ## Schedule
 
-### Lecture 1 – Sep 24
+### Sep 24: What is Web Security? HTML & JavaScript Review
 
-- Topics
-  - HTTP
-  - HTML
-  - JavaScript
 - [Slides](lectures/Lecture%201.pdf)
 - Reading
-   - [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
-   - [Inside look at modern web browser (part 1)](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
-   - [Inside look at modern web browser (part 2)](https://developers.google.com/web/updates/2018/09/inside-browser-part2)
-   - [Inside look at modern web browser (part 3)](https://developers.google.com/web/updates/2018/09/inside-browser-part3)
-   - Skim: [HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
-   - Skim: [A Re-Introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+  - [Inside look at modern web browser (part 1)](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+  - [Inside look at modern web browser (part 2)](https://developers.google.com/web/updates/2018/09/inside-browser-part2)
+  - [Inside look at modern web browser (part 3)](https://developers.google.com/web/updates/2018/09/inside-browser-part3)
+  - [A Re-Introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
-### Lecture 2 – Sep 26
+### Sep 26: HTTP, Cookies, Sessions
 
-- Topics
-  - Sessions
-  - Cookies
 - Reading
-  - TBD
+  - [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+  - [HTTP Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
+  - Skim: [HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
 
-### Lecture 3 – Oct 1
+### Oct 1: Same origin policy, Cross-Site Request Forgery
 
-- Topics
-  - Same origin policy
-  - Cross-Site Request Forgery (CSRF)
-- Reading
-  - TBD
+### Oct 3: TBD
 
-### Lecture 4 – Oct 3
 
-- TBD
+### Oct 8: Cross-Site Scripting
 
-### Lecture 5 – Oct 8
+### Oct 10: Phishing, Denial-of-service, Leaks, Side Channels
 
-- Topics
-  - Client security: The bad old days
-  - Client security: Cross-Site Scripting (XSS)
-- Reading
-  - TBD
+### Oct 15: Web Tracking, Fingerprinting
 
-### Lecture 6 – Oct 10
+### Oct 17: TBD
 
-- Topics
-  - Client security: Phishing, Denial-of-service
-  - Client security: Leaks
-  - Client security: Side Channels
-- Reading
-  - TBD
+### Oct 22: Server Injection, Denial of Service
 
-### Lecture 7 – Oct 15
+### Oct 24: Server business logic errors, JavaScript security
 
-- Topics
-  - Client security: Web Tracking
-  - Client security: Browser Fingerprinting
-- Reading
-  - TBD
+### Oct 29: Authentication
 
-### Lecture 8 – Oct 17
+### Oct 31: WebAuthn at GitHub
 
-- TBD
-
-### Lecture 9 – Oct 22
-
-- Topics
-  - Server security: Injection
-  - Server security: Denial of Service
-- Reading
-  - TBD
-
-### Lecture 10 – Oct 24
-
-- Topics
-  - Server security: Business logic errors
-  - Server security: JavaScript security
-- Reading
-  - TBD
-
-### Lecture 11 – Oct 29
-
-- Topics
-  - Authentication
-- Reading
-  - TBD
-
-### Lecture 12 – Oct 31
-
-- Guest Lecture
-  - Lucas Garron ([GitHub](https://github.com) Security)
-  - Talk Title: "WebAuthn at GitHub"
+- **Guest Lecture:** Lucas Garron ([GitHub](https://github.com) Security)
 - Reading
   - [Guide to Web Authentication](https://webauthn.guide/)
 
-### Lecture 13 – Nov 5
+### Nov 5: Server security: Side Channels, Local HTTP servers
 
-- Topics
-  - Server security: Side Channels
-  - Server security: Local HTTP servers
+### Nov 7: Browser Architecture, Plugins
+
+### Nov 12: Transport Layer Security
+
+### Nov 14: Strict Transport Security and Public Key Pinning
+
+- **Guest Lecture:** Emily Stark and Chris Palmer ([Google Chrome](https://www.google.com/chrome/) Security)
 - Reading
   - TBD
 
-### Lecture 14 – Nov 7
+### Nov 19: TBD
 
-- Topics
-  - Browser Architecture
-  - Browser Plugins
-- Reading
-  - TBD
+### Nov 21: TBD
 
-### Lecture 15 – Nov 12
+### Dec 3: TBD
 
-- Topics
-  - Transport Layer Security
-- Reading
-  - TBD
-
-### Lecture 16 – Nov 14
-
-- Guest Lecture
-  - Emily Stark and Chris Palmer ([Google Chrome](https://www.google.com/chrome/) Security)
-  - Talk Title: "Strict Transport Security and Public Key Pinning"
-- Reading
-  - TBD
-
-### Lecture 17 – Nov 19
-
-- TBD
-
-### Lecture 18 – Nov 21
-
-- TBD
-
-### Lecture 19 – Dec 3
-
-- TBD
-
-### Lecture 20 – Dec 5
-
-- Topics
-  - Writing Secure Code
-  - Ecosystem Issues
-- Reading
-  - TBD
+### Dec 5: Writing Secure Code, Ecosystem Issues
 
 ## Assignments
 
