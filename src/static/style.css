@@ -42,9 +42,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .logo {
+  color: var(--color) !important;
+  text-decoration: none;
+}
+
+.logo img {
   max-width: 150px;
-  width: 100%
-  margin: 30px 0;
+  width: 100%;
 }
 
 li {
