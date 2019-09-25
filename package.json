@@ -10,13 +10,14 @@
   "bugs": {
     "url": "https://github.com/feross/cs253.stanford.edu/issues"
   },
-  "dependencies": {
-    "normalize.css": "^8.0.1",
-    "ecstatic": "^4.1.2"
-  },
+  "dependencies": {},
   "devDependencies": {
+    "ecstatic": "^4.1.2",
     "fs-extra": "^8.1.0",
+    "normalize.css": "^8.0.1",
     "remark": "^11.0.1",
+    "remark-external-links": "^5.0.0",
+    "remark-highlight.js": "^5.1.1",
     "remark-html": "^10.0.0",
     "remark-preset-lint-recommended": "^3.0.3",
     "rimraf": "^3.0.0",

@@ -106,9 +106,9 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 These assignments are tentative and subject to change.
 
-### Assignment 0 – Web Programming Adventure ✈️ 🌎
+### [Assignment 0 – Web Programming Adventure ✈️](assign0)
 
-- Assigned: Monday, September 23
+- Assigned: Tuesday, September 24
 - Due: Friday, October 5 at 5:00pm
 
 ### Assignment 1 – Journey to the Dark Side 🌘

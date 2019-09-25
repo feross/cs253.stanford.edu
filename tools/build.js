@@ -1,8 +1,10 @@
 #!/usr/bin/env node
 
-const html = require('remark-html')
-const recommended = require('remark-preset-lint-recommended')
 const remark = require('remark')
+const remarkExternalLinks = require('remark-external-links')
+const remarkHighlight = require('remark-highlight.js')
+const remarkHtml = require('remark-html')
+const remarkRecommended = require('remark-preset-lint-recommended')
 const rimraf = require('rimraf')
 const { join } = require('path')
 const { copySync } = require('fs-extra')
@@ -40,8 +42,10 @@ function run () {
       }
       const pageMd = readFileSync(join(PAGES_FOLDER, pagePath), 'utf8')
       const page = await remark()
-        .use(recommended)
-        .use(html)
+        .use(remarkRecommended)
+        .use(remarkHighlight)
+        .use(remarkExternalLinks)
+        .use(remarkHtml)
         .process(pageMd)
 
       const outPage = layout.replace(/CONTENT/g, page)
