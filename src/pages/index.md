@@ -131,11 +131,6 @@ These assignments are tentative and subject to change.
 - Assigned: Monday, November 18
 - Due: Friday, November 29 at 5:00pm
 
-### Assignment 5 – TBD
-
-- Assigned: Monday, December 2
-- Due: Friday, December 13 at 5:00pm
-
 ## Course Policies
 
 ### Attendence
@@ -147,7 +142,11 @@ Attendance at lectures is mandatory. Do not enroll in this course if you are tak
 - Assignments (75%)
 - Final Exam (25%)
 
-Each assignment is worth 12.5%. There is no midterm.
+Each assignment is worth 15%. There is no midterm.
+
+### Final exam
+
+- Tuesday, December 10 at 3:30pm - 6:30pm
 
 ### Collaboration Policy
 
