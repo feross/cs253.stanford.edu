@@ -103,7 +103,11 @@ You'll see the menu:
 
 Navigate the menu with the up & down arrow keys. Choose a challenge by hitting enter.
 
-Whenever an exercise tells you to create a file, you should use the files we've already created for you in the `src/` folder. For example, the first file you need to edit is `src/learnyouhtml/index.html`. You can use any text editor you like to, whether it's `vim` or `emacs` or even a visual editor like [Sublime Text](https://www.sublimetext.com/) or [VS Code](https://code.visualstudio.com).
+Whenever an exercise tells you to create a file, you should use the files we've already created for you in the `src/` folder. For example, the first file you need to edit is `src/learnyouhtml/index.html`.
+
+**IMPORTANT: Use a separate file for each exercise!** We have provided you with a separate file to use for each exercise.
+
+You can use any text editor you like to, whether it's `vim` or `emacs` or even a visual editor like [Sublime Text](https://www.sublimetext.com/) or [VS Code](https://code.visualstudio.com).
 
 Complete all the exercises. There are 11 in total.
 
@@ -118,7 +122,9 @@ learnyouhtml verify index.html # check that you did it correctly!
 
 If you get stuck, the web is your friend! You can quickly search for a topic and quickly refresh your memory. A good trick is to search for a concept along with the abbreviation `"mdn"`, short for [Mozilla Developer Network](https://developer.mozilla.org/en-US/) which is the best web resource for HTML and JavaScript APIs. So, for example if you want a refresher on how `<script>` tags work, you could search for `"script mdn"`.
 
-When you're finished with all the exercises, go on to the next part.
+When you're finished with all the exercises, your `src/learnyouhtml` folder should have 11 complete `.html` files. Nice work!
+
+When you're ready, go on to the next part.
 
 ## Part 2 – JavaScripting Adventure! (20 points, 1 per exercise)
 
@@ -149,7 +155,7 @@ When you're finished with all the exercises, go on to the next part.
 
 Run the following command:
 
-```
+```sh
 learnyounode
 ```
 
