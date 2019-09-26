@@ -43,7 +43,7 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 ### Sep 24: What is Web Security? HTML & JavaScript Review
 
-- [Slides](lectures/Lecture%201.pdf)
+- [Slides](lectures/Lecture%2001.pdf)
 - Reading
   - [Inside look at modern web browser (part 1)](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
   - [Inside look at modern web browser (part 2)](https://developers.google.com/web/updates/2018/09/inside-browser-part2)
@@ -52,6 +52,7 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 ### Sep 26: HTTP, Cookies, Sessions
 
+- [Slides](lectures/Lecture%2002.pdf)
 - Reading
   - [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
   - [HTTP Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
