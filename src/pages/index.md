@@ -114,22 +114,22 @@ These assignments are tentative and subject to change.
 
 ### Assignment 1 – Journey to the Dark Side 🌘
 
-- Assigned: Monday, October 7
+- Assigned: Tuesday, October 8
 - Due: Friday, October 18 at 5:00pm
 
 ### Assignment 2 – Oh What a Tangled Web We Weave 🕸
 
-- Assigned: Monday, October 21
+- Assigned: Tuesday, October 22
 - Due: Friday, November 1 at 5:00pm
 
 ### Assignment 3 – TBD
 
-- Assigned: Monday, November 4
+- Assigned: Tuesday, November 5
 - Due: Friday, November 15 at 5:00pm
 
 ### Assignment 4 – TBD
 
-- Assigned: Monday, November 18
+- Assigned: Tuesday, November 19
 - Due: Friday, November 29 at 5:00pm
 
 ## Course Policies
