@@ -16,12 +16,6 @@ We will primarily use [Piazza](https://piazza.com/stanford/fall2019/cs253) for s
 
 To submit anonymous feedback to us at any point during the quarter, you may use [this form](https://forms.gle/WqKuxA2m7oycRuTt7).
 
-## Prerequisites
-
-CS 142, or an equivalent amount of web development experience, is a prerequisite. You should also be curious about web security and excited to learn clever attacks, defenses, and techniques for writing secure code.
-
-An introductory security course, such as CS 155, is not a formal prerequisite. The material in this course is focused specifically on the web, while CS 155 covers security more broadly.
-
 ## Course Staff
 
 ### Instructor
@@ -35,9 +29,7 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 ## Office Hours
 
 - Feross: Thursday, 3-5pm, Gates 323
-- Esther:
-  - **Week of 9/23 only: Thursday 11:20am-1:20pm, Friday 1-3pm, Huang Basement**
-  - Normal time: Monday 3-5pm, Wednesday 3-5pm, Huang Basement
+- Esther: Monday 3-5pm, Wednesday 3-5pm, Huang Basement (**no Wednesday hours on week of 9/30**)
 
 ## Schedule
 
@@ -58,10 +50,12 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
   - [HTTP Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
   - Skim: [HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
 
-### Oct 01: Same origin policy, Cross-Site Request Forgery
+### Oct 01: Session Attacks
 
-### Oct 03: TBD
+- Slides
+- Reading
 
+### Oct 03: Same origin policy, Cross-Site Request Forgery
 
 ### Oct 08: Cross-Site Scripting
 
@@ -133,6 +127,12 @@ These assignments are tentative and subject to change.
 - Due: Friday, November 29 at 5:00pm
 
 ## Course Policies
+
+### Prerequisites
+
+CS 142, or an equivalent amount of web development experience, is a prerequisite. You should also be curious about web security and excited to learn clever attacks, defenses, and techniques for writing secure code.
+
+An introductory security course, such as CS 155, is not a formal prerequisite. The material in this course is focused specifically on the web, while CS 155 covers security more broadly.
 
 ### Attendence
 
