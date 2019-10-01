@@ -52,8 +52,11 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 ### Oct 01: Session Attacks
 
-- Slides
+- [Slides](lectures/Lecture%2003.pdf)
 - Reading
+  - [SameSite Cookies Explained](https://web.dev/samesite-cookies-explained/)
+  - [Incrementally Better Cookies](https://tools.ietf.org/html/draft-west-cookie-incrementalism-00#section-4.1)
+  - [CSRF Is Dead](https://scotthelme.co.uk/csrf-is-dead/)
 
 ### Oct 03: Same origin policy, Cross-Site Request Forgery
 
