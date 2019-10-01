@@ -63,31 +63,35 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 ### Oct 15: Web Tracking, Fingerprinting
 
-### Oct 17: TBD
+### Oct 17: Anti-Fingerprinting Defenses
+
+- **Guest Lecture:** Pete Snyder ([Brave Software](https://brave.com))
+- Reading:
+  - TBD
 
 ### Oct 22: Server Injection, Denial of Service
 
 ### Oct 24: Server business logic errors, JavaScript security
 
-### Oct 29: Authentication
+### Oct 29: Transport Layer Security
 
-### Oct 31: WebAuthn at GitHub
+### Oct 31: Strict Transport Security and Public Key Pinning
 
-- **Guest Lecture:** Lucas Garron ([GitHub](https://github.com) Security)
+- **Guest Lecture:** Emily Stark & Chris Palmer ([Google Chrome](https://www.google.com/chrome/))
+- Reading
+  - TBD
+
+### Nov 05: Authentication
+
+### Nov 07: WebAuthn at GitHub
+
+- **Guest Lecture:** Lucas Garron ([GitHub](https://github.com))
 - Reading
   - [Guide to Web Authentication](https://webauthn.guide/)
 
-### Nov 05: Server security: Side Channels, Local HTTP servers
+### Nov 12: Server security: Side Channels, Local HTTP servers
 
-### Nov 07: Browser Architecture, Plugins
-
-### Nov 12: Transport Layer Security
-
-### Nov 14: Strict Transport Security and Public Key Pinning
-
-- **Guest Lecture:** Emily Stark and Chris Palmer ([Google Chrome](https://www.google.com/chrome/) Security)
-- Reading
-  - TBD
+### Nov 14: Browser Architecture, Plugins
 
 ### Nov 19: TBD
 
