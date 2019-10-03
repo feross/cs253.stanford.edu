@@ -60,6 +60,8 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 ### Oct 03: Same origin policy, Cross-Site Request Forgery
 
+- [Slides](lectures/Lecture%2004.pdf)
+
 ### Oct 08: Cross-Site Scripting
 
 ### Oct 10: Phishing, Denial-of-service, Leaks, Side Channels
