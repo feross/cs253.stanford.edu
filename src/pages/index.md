@@ -82,7 +82,10 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 - **Guest Lecture:** Emily Stark & Chris Palmer ([Google Chrome](https://www.google.com/chrome/))
 - Reading
-  - TBD
+  - [DigiNotar on Wikipedia](https://en.wikipedia.org/wiki/DigiNotar)
+  - [About Public Key Pinning](https://noncombatant.org/2015/05/01/about-http-public-key-pinning/)
+  - [What Is HPKP For?](https://noncombatant.org/2015/11/24/what-is-hpkp-for/)
+  - [Rolling out Public Key Pinning with HPKP Reporting](https://developers.google.com/web/updates/2015/09/HPKP-reporting-with-chrome-46)
 
 ### Nov 05: Authentication
 
