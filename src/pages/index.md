@@ -65,6 +65,9 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 - [Slides](lectures/Lecture%2004.pdf)
 - [Video](https://www.youtube.com/watch?v=0-q69vAYSwo)
+- Reading
+  - [Same Origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
+  - [Cross-Site Request Forgery Prevention](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
 
 ### Oct 08: Exceptions to the Same Origin Policy, Cross-Site Script Inclusion, JSONP
 
@@ -72,19 +75,40 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 ### Oct 10: Cross-Site Scripting
 
+- Reading
+  - [Cross Site Scripting Prevention](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
+  - [CSP is Dead: Long Live CSP](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45542.pdf)
+
 ### Oct 15: Web Tracking, Fingerprinting
+
+- Reading
+  - [WebKit Tracking Prevention Policy](https://webkit.org/tracking-prevention-policy/)
+  - [WebKit Ad Click Attribution](https://webkit.org/blog/8943/privacy-preserving-ad-click-attribution-for-the-web/)
+  - [Protecting Browser State from Web Privacy Attacks](https://crypto.stanford.edu/safecache/sameorigin.pdf)
+  - [Browser Fingerprinting: An Introduction and the Challenges Ahead](https://blog.torproject.org/browser-fingerprinting-introduction-and-challenges-ahead)
 
 ### Oct 17: Anti-Fingerprinting Defenses
 
 - **Guest Lecture:** Pete Snyder ([Brave Software](https://brave.com))
 - Reading:
-  - TBD
+  - Englehardt, Steven, and Arvind Narayanan. ["Online tracking: A 1-million-site measurement and analysis."](https://chromium.woolyss.com/f/OpenWPM-1-million-site-tracking-measurement.pdf) Proceedings of the 2016 ACM SIGSAC conference on computer and communications security. ACM, 2016.
+  - Snyder, Peter, Cynthia Taylor, and Chris Kanich. ["Most websites don't need to vibrate: A cost-benefit approach to improving browser security."](https://arxiv.org/pdf/1708.08510) Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security. ACM, 2017.
 
 ### Oct 22: Phishing, Denial-of-service, Leaks, Side Channels
+
+- Slides
+- Video
+- Reading
+  - [Clickjacking](http://www.sectheory.com/clickjacking.htm)
+  - [Cross-Origin JavaScript Capability Leaks: Detection, Exploitation, and Defense](https://www.adambarth.com/papers/2009/barth-weinberger-song.pdf)
+
 
 ### Oct 24: Server Injection, Denial of Service
 
 ### Oct 29: Transport Layer Security
+
+- Reading
+  - [Looking back at the Snowden revelations](https://blog.cryptographyengineering.com/2019/09/24/looking-back-at-the-snowden-revelations/)
 
 ### Oct 31: Strict Transport Security and Public Key Pinning
 
@@ -105,6 +129,9 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 ### Nov 12: Server business logic errors, JavaScript security
 
+- Reading
+  - [Exploiting Buffer](https://snyk.io/blog/exploiting-buffer/)
+
 ### Nov 14: Server security: Side Channels, Local HTTP servers
 
 ### Nov 19: Browser Architecture, Plugins
@@ -114,6 +141,13 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 ### Dec 03: TBD
 
 ### Dec 05: Writing Secure Code, Ecosystem Issues
+
+- Reading
+  - [Backdooring Your JavaScript Using Minifier Bugs](https://diracdeltas.github.io/blog/backdooring-js/)
+  - [I’m harvesting credit card numbers and passwords from your site. Here’s how.](https://medium.com/hackernoon/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
+  - [Major sites running unauthenticated JavaScript on their payment pages](https://shkspr.mobi/blog/2018/11/major-sites-running-unauthenticated-javascript-on-their-payment-pages/)
+  - [Statement on event-stream compromise](https://gist.github.com/dominictarr/9fd9c1024c94592bc7268d36b8d83b3a)
+  - [Google and Mozilla are failing to support browser extension developers](https://armin.dev/blog/2019/08/supporting-browser-extension-developers/)
 
 ## Assignments
 
