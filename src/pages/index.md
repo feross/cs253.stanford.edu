@@ -56,7 +56,6 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 - [Slides](lectures/Lecture%2003.pdf)
 - [Video](https://www.youtube.com/watch?v=QuhgjXKzfI8)
-
 - Reading
   - [SameSite Cookies Explained](https://web.dev/samesite-cookies-explained/)
   - [Incrementally Better Cookies](https://tools.ietf.org/html/draft-west-cookie-incrementalism-00#section-4.1)
