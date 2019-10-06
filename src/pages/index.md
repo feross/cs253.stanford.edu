@@ -36,6 +36,7 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 ### Sep 24: What is Web Security? HTML & JavaScript Review
 
 - [Slides](lectures/Lecture%2001.pdf)
+- [Video](https://www.youtube.com/watch?v=5JJrJGZ_LjM)
 - Reading
   - [Inside look at modern web browser (part 1)](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
   - [Inside look at modern web browser (part 2)](https://developers.google.com/web/updates/2018/09/inside-browser-part2)
@@ -45,6 +46,7 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 ### Sep 26: HTTP, Cookies, Sessions
 
 - [Slides](lectures/Lecture%2002.pdf)
+- [Video](https://www.youtube.com/watch?v=zhnQFQ2qFtA)
 - Reading
   - [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
   - [HTTP Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
@@ -53,18 +55,23 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 ### Oct 01: Session Attacks
 
 - [Slides](lectures/Lecture%2003.pdf)
+- [Video](https://www.youtube.com/watch?v=QuhgjXKzfI8)
+
 - Reading
   - [SameSite Cookies Explained](https://web.dev/samesite-cookies-explained/)
   - [Incrementally Better Cookies](https://tools.ietf.org/html/draft-west-cookie-incrementalism-00#section-4.1)
   - [CSRF Is Dead](https://scotthelme.co.uk/csrf-is-dead/)
 
-### Oct 03: Same origin policy, Cross-Site Request Forgery
+### Oct 03: Cross-Site Request Forgery, Same Origin Policy
 
 - [Slides](lectures/Lecture%2004.pdf)
+- [Video](https://www.youtube.com/watch?v=0-q69vAYSwo)
 
-### Oct 08: Cross-Site Scripting
+### Oct 08: Exceptions to the Same Origin Policy, Cross-Site Script Inclusion, JSONP
 
-### Oct 10: Phishing, Denial-of-service, Leaks, Side Channels
+- Reading
+
+### Oct 10: Cross-Site Scripting
 
 ### Oct 15: Web Tracking, Fingerprinting
 
@@ -74,9 +81,9 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 - Reading:
   - TBD
 
-### Oct 22: Server Injection, Denial of Service
+### Oct 22: Phishing, Denial-of-service, Leaks, Side Channels
 
-### Oct 24: Server business logic errors, JavaScript security
+### Oct 24: Server Injection, Denial of Service
 
 ### Oct 29: Transport Layer Security
 
@@ -97,11 +104,11 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 - Reading
   - [Guide to Web Authentication](https://webauthn.guide/)
 
-### Nov 12: Server security: Side Channels, Local HTTP servers
+### Nov 12: Server business logic errors, JavaScript security
 
-### Nov 14: Browser Architecture, Plugins
+### Nov 14: Server security: Side Channels, Local HTTP servers
 
-### Nov 19: TBD
+### Nov 19: Browser Architecture, Plugins
 
 ### Nov 21: TBD
 
