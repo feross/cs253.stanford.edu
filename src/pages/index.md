@@ -160,7 +160,7 @@ These assignments are tentative and subject to change.
 - Assigned: Tuesday, September 24
 - Due: Friday, October 4 at 5:00pm
 
-### Assignment 1 – Journey to the Dark Side 🌘
+### [Assignment 1 – Journey to the Dark Side 🌘](assign1)
 
 - Assigned: Tuesday, October 8
 - Due: Friday, October 18 at 5:00pm
