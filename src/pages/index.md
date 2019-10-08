@@ -69,9 +69,9 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
   - [Same Origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
   - [Cross-Site Request Forgery Prevention](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
 
-### Oct 08: Exceptions to the Same Origin Policy, Cross-Site Script Inclusion, JSONP
+### Oct 08: Exceptions to the Same Origin Policy, Cross-Site Script Inclusion
 
-- Reading
+- [Slides](lectures/Lecture%2005.pdf)
 
 ### Oct 10: Cross-Site Scripting
 
