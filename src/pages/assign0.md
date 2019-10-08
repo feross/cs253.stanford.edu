@@ -202,13 +202,11 @@ npm run lint-fix
 
 ### Gradescope
 
-We'll use [Gradescope](https://gradescope.com) for submissions. Enroll with the code `97BGZB`.
+We use [Gradescope](https://gradescope.com) for submissions. Enroll with the code `97BGZB`.
 
 ### The moment of truth
 
-When you're ready to submit your work, you'll upload the `src/` folder.
-
-**We'll release instructions for uploading the assignment to Gradescope next week.**
+When you're ready to submit your work, you'll upload the `src/` folder to Gradescope.
 
 You should submit early and often! There's no downside to repeatedly submitting your assignment.
 
