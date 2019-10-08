@@ -1,4 +1,4 @@
-## Assignment 0 – Web Programming Adventure ✈️
+## Assignment 1 – Journey to the Dark Side 🌘
 
 - **Points:** 45
 - **Due:** Friday, October 18 at 5:00pm
@@ -13,7 +13,7 @@ With Stored XSS, you want to find a way to get your attack input stored more per
 
 The assignment takes the form of an interactive workshop that you'll run in your browser. This is what it looks like:
 
-![](img/screenshot.png)
+![](journey-to-the-dark-side.png)
 
 ## Prepare
 
@@ -31,19 +31,19 @@ If not, you can install [Node.js](https://nodejs.org/en/) from the official site
 
 Run this command to clone the code with `git`:
 
-```bash
+```sh
 git clone https://github.com/stanford-web-security/assign1.git
 ```
 
 Enter the folder you just created:
 
-```bash
+```sh
 cd assign1
 ```
 
 Install the necessary local dependencies with `npm`:
 
-```bash
+```sh
 npm install
 ```
 
@@ -51,7 +51,7 @@ npm install
 
 Run the local server:
 
-```
+```sh
 npm start
 ```
 
