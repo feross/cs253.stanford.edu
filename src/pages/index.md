@@ -112,6 +112,7 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 ### Oct 29: Transport Layer Security
 
+- **Guest Lecture:** TBD
 - Reading
   - [Looking back at the Snowden revelations](https://blog.cryptographyengineering.com/2019/09/24/looking-back-at-the-snowden-revelations/)
 
@@ -137,11 +138,13 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 - Reading
   - [Exploiting Buffer](https://snyk.io/blog/exploiting-buffer/)
 
-### Nov 14: Server security: Side Channels, Local HTTP servers
+### Nov 14: Open source security
 
-### Nov 19: Browser Architecture, Plugins
+- **Guest Lecture:** TBD
 
-### Nov 21: TBD
+### Nov 19: Server security: Side Channels, Local HTTP servers
+
+### Nov 21: Browser Architecture, Plugins
 
 ### Dec 03: TBD
 
