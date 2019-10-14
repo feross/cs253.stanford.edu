@@ -95,7 +95,7 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 ### Oct 17: Anti-Fingerprinting Defenses
 
 - **Guest Lecture:** Pete Snyder ([Brave Software](https://brave.com))
-- Reading:
+- Reading
   - Englehardt, Steven, and Arvind Narayanan. ["Online tracking: A 1-million-site measurement and analysis."](https://chromium.woolyss.com/f/OpenWPM-1-million-site-tracking-measurement.pdf) Proceedings of the 2016 ACM SIGSAC conference on computer and communications security. ACM, 2016.
   - Snyder, Peter, Cynthia Taylor, and Chris Kanich. ["Most websites don't need to vibrate: A cost-benefit approach to improving browser security."](https://arxiv.org/pdf/1708.08510) Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security. ACM, 2017.
 
