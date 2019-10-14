@@ -30,8 +30,8 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 ## Office Hours
 
-- Feross: Thursday, 3-5pm, Gates 323
-- Esther: Monday 3-5pm, Wednesday 3-5pm, Huang Basement **(this Monday changed to 11:20-1:20pm)**
+- Feross: Thursday 3-5pm, Gates 323
+- Esther: Monday 3-5pm, Wednesday 3-5pm, Huang Basement
 
 ## Schedule
 
@@ -101,8 +101,6 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 ### Oct 22: Phishing, Denial-of-service, Leaks, Side Channels
 
-- Slides
-- Video
 - Reading
   - [Clickjacking](http://www.sectheory.com/clickjacking.htm)
   - [Cross-Origin JavaScript Capability Leaks: Detection, Exploitation, and Defense](https://www.adambarth.com/papers/2009/barth-weinberger-song.pdf)
