@@ -74,10 +74,12 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 ### Oct 08: Exceptions to the Same Origin Policy, Cross-Site Script Inclusion
 
 - [Slides](lectures/Lecture%2005.pdf)
+- [Video](https://www.youtube.com/watch?v=ud9cVQDte3A)
 
 ### Oct 10: Cross-Site Scripting
 
 - [Slides](lectures/Lecture%2006.pdf)
+- [Video](https://www.youtube.com/watch?v=XTcqlOFhpPI)
 - Reading
   - [Cross Site Scripting Prevention](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
   - [CSP is Dead: Long Live CSP](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45542.pdf)
