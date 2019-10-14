@@ -76,7 +76,7 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 - [Slides](lectures/Lecture%2005.pdf)
 - [Video](https://www.youtube.com/watch?v=ud9cVQDte3A)
 
-### Oct 10: Cross-Site Scripting
+### Oct 10: Cross-Site Scripting (XSS)
 
 - [Slides](lectures/Lecture%2006.pdf)
 - [Video](https://www.youtube.com/watch?v=XTcqlOFhpPI)
