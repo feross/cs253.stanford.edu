@@ -92,7 +92,7 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
   - [Protecting Browser State from Web Privacy Attacks](https://crypto.stanford.edu/safecache/sameorigin.pdf)
   - [Browser Fingerprinting: An Introduction and the Challenges Ahead](https://blog.torproject.org/browser-fingerprinting-introduction-and-challenges-ahead)
 
-### Oct 17: Anti-Fingerprinting Defenses
+### Oct 17: Browser Fingerprinting Defenses
 
 - **Guest Lecture:** Pete Snyder ([Brave Software](https://brave.com))
 - Reading
