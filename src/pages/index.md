@@ -205,7 +205,7 @@ Each assignment is worth 15%. There is no midterm.
 
 ### Final exam
 
-- Tuesday, December 10 at 3:30pm - 6:30pm
+- Tuesday, December 10, 3:30pm - 6:30pm in [200-305](https://campus-map.stanford.edu/?srch=200-305)
 
 ### Collaboration Policy
 
