@@ -86,7 +86,7 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 ### Oct 15: Cross-Site Scripting Defenses
 
-- Slides
+- [Slides](lectures/Lecture%2007.pdf)
 - Reading
   - [CSP is Dead: Long Live CSP](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45542.pdf)
 
