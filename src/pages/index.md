@@ -82,15 +82,13 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 - [Video](https://www.youtube.com/watch?v=XTcqlOFhpPI)
 - Reading
   - [Cross Site Scripting Prevention](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
-  - [CSP is Dead: Long Live CSP](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45542.pdf)
+  - [XSS Filter Evasion Cheat Sheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)
 
-### Oct 15: Web Tracking, Fingerprinting
+### Oct 15: Cross-Site Scripting Defenses
 
+- Slides
 - Reading
-  - [WebKit Tracking Prevention Policy](https://webkit.org/tracking-prevention-policy/)
-  - [WebKit Ad Click Attribution](https://webkit.org/blog/8943/privacy-preserving-ad-click-attribution-for-the-web/)
-  - [Protecting Browser State from Web Privacy Attacks](https://crypto.stanford.edu/safecache/sameorigin.pdf)
-  - [Browser Fingerprinting: An Introduction and the Challenges Ahead](https://blog.torproject.org/browser-fingerprinting-introduction-and-challenges-ahead)
+  - [CSP is Dead: Long Live CSP](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45542.pdf)
 
 ### Oct 17: Browser Fingerprinting Defenses
 
@@ -98,6 +96,10 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 - Reading
   - Englehardt, Steven, and Arvind Narayanan. ["Online tracking: A 1-million-site measurement and analysis."](https://chromium.woolyss.com/f/OpenWPM-1-million-site-tracking-measurement.pdf) Proceedings of the 2016 ACM SIGSAC conference on computer and communications security. ACM, 2016.
   - Snyder, Peter, Cynthia Taylor, and Chris Kanich. ["Most websites don't need to vibrate: A cost-benefit approach to improving browser security."](https://arxiv.org/pdf/1708.08510) Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security. ACM, 2017.
+  - [WebKit Tracking Prevention Policy](https://webkit.org/tracking-prevention-policy/)
+  - [Browser Fingerprinting: An Introduction and the Challenges Ahead](https://blog.torproject.org/browser-fingerprinting-introduction-and-challenges-ahead)
+  - [WebKit Ad Click Attribution](https://webkit.org/blog/8943/privacy-preserving-ad-click-attribution-for-the-web/)
+  - [Protecting Browser State from Web Privacy Attacks](https://crypto.stanford.edu/safecache/sameorigin.pdf)
 
 ### Oct 22: Phishing, Denial-of-service, Leaks, Side Channels
 
