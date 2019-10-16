@@ -87,26 +87,27 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 ### Oct 15: Cross-Site Scripting Defenses
 
 - [Slides](lectures/Lecture%2007.pdf)
+- [Video](https://www.youtube.com/watch?v=PlXzrtheQGc)
 - Reading
   - [CSP is Dead: Long Live CSP](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45542.pdf)
+  - [Trusted Types](https://developers.google.com/web/updates/2019/02/trusted-types)
 
 ### Oct 17: Browser Fingerprinting Defenses
 
 - **Guest Lecture:** Pete Snyder ([Brave Software](https://brave.com))
 - Reading
-  - Englehardt, Steven, and Arvind Narayanan. ["Online tracking: A 1-million-site measurement and analysis."](https://chromium.woolyss.com/f/OpenWPM-1-million-site-tracking-measurement.pdf) Proceedings of the 2016 ACM SIGSAC conference on computer and communications security. ACM, 2016.
-  - Snyder, Peter, Cynthia Taylor, and Chris Kanich. ["Most websites don't need to vibrate: A cost-benefit approach to improving browser security."](https://arxiv.org/pdf/1708.08510) Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security. ACM, 2017.
-  - [WebKit Tracking Prevention Policy](https://webkit.org/tracking-prevention-policy/)
+  - [Online tracking: A 1-million-site measurement and analysis](https://chromium.woolyss.com/f/OpenWPM-1-million-site-tracking-measurement.pdf)
+  - [Most websites don't need to vibrate: A cost-benefit approach to improving browser security](https://arxiv.org/pdf/1708.08510)
   - [Browser Fingerprinting: An Introduction and the Challenges Ahead](https://blog.torproject.org/browser-fingerprinting-introduction-and-challenges-ahead)
   - [WebKit Ad Click Attribution](https://webkit.org/blog/8943/privacy-preserving-ad-click-attribution-for-the-web/)
   - [Protecting Browser State from Web Privacy Attacks](https://crypto.stanford.edu/safecache/sameorigin.pdf)
+  - Skim: [WebKit Tracking Prevention Policy](https://webkit.org/tracking-prevention-policy/)
 
 ### Oct 22: Phishing, Denial-of-service, Leaks, Side Channels
 
 - Reading
   - [Clickjacking](http://www.sectheory.com/clickjacking.htm)
   - [Cross-Origin JavaScript Capability Leaks: Detection, Exploitation, and Defense](https://www.adambarth.com/papers/2009/barth-weinberger-song.pdf)
-
 
 ### Oct 24: Server Injection, Denial of Service
 
