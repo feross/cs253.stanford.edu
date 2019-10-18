@@ -92,7 +92,7 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
   - [CSP is Dead: Long Live CSP](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45542.pdf)
   - [Trusted Types](https://developers.google.com/web/updates/2019/02/trusted-types)
 
-### Oct 17: Browser Fingerprinting Defenses
+### Oct 17: Fingerprinting and Privacy on the Web
 
 - **Guest Lecture:** Pete Snyder ([Brave Software](https://brave.com))
 - [Slides](lectures/Lecture%2008.pdf)
