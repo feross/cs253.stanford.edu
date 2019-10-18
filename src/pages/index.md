@@ -91,6 +91,7 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 - Reading
   - [CSP is Dead: Long Live CSP](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45542.pdf)
   - [Trusted Types](https://developers.google.com/web/updates/2019/02/trusted-types)
+  - [Sanitising HTML: the DOM clobbering issue](https://fastmail.blog/2015/12/20/sanitising-html-the-dom-clobbering-issue/)
 
 ### Oct 17: Fingerprinting and Privacy on the Web
 
