@@ -95,6 +95,8 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 ### Oct 17: Browser Fingerprinting Defenses
 
 - **Guest Lecture:** Pete Snyder ([Brave Software](https://brave.com))
+- [Slides](lectures/Lecture%2008.pdf)
+- [Video](https://www.youtube.com/watch?v=OVh0oHbmla0)
 - Reading
   - [Online tracking: A 1-million-site measurement and analysis](https://chromium.woolyss.com/f/OpenWPM-1-million-site-tracking-measurement.pdf)
   - [Most websites don't need to vibrate: A cost-benefit approach to improving browser security](https://arxiv.org/pdf/1708.08510)
