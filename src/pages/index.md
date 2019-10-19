@@ -89,6 +89,7 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 - [Slides](lectures/Lecture%2007.pdf)
 - [Video](https://www.youtube.com/watch?v=PlXzrtheQGc)
 - Reading
+  - [Reining in the Web with Content Security Policy](http://research.sidstamm.com/papers/csp-www2010.pdf)
   - [CSP is Dead: Long Live CSP](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45542.pdf)
   - [Trusted Types](https://developers.google.com/web/updates/2019/02/trusted-types)
   - [Sanitising HTML: the DOM clobbering issue](https://fastmail.blog/2015/12/20/sanitising-html-the-dom-clobbering-issue/)
@@ -109,6 +110,7 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 ### Oct 22: Phishing, Denial-of-service, Leaks, Side Channels
 
 - Reading
+  - [Alice in Warningland: A Large-Scale Field Study of Browser Security](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_akhawe.pdf)
   - [Clickjacking](http://www.sectheory.com/clickjacking.htm)
   - [Cross-Origin JavaScript Capability Leaks: Detection, Exploitation, and Defense](https://www.adambarth.com/papers/2009/barth-weinberger-song.pdf)
 
@@ -131,7 +133,7 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 ### Nov 05: Authentication
 
-### Nov 07: WebAuthn at GitHub
+### Nov 07: WebAuthn
 
 - **Guest Lecture:** Lucas Garron ([GitHub](https://github.com))
 - Reading
@@ -142,13 +144,19 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 - Reading
   - [Exploiting Buffer](https://snyk.io/blog/exploiting-buffer/)
 
-### Nov 14: Open source security
+### Nov 14: Security in the real-world
 
-- **Guest Lecture:** TBD
+- **Guest Lecture:** Myles Borins ([Node.js](https://nodejs.org/en/) technical steering committee, [Google](https://www.google.com/))
+- Reading
+  - TBD
 
 ### Nov 19: Server security: Side Channels, Local HTTP servers
 
 ### Nov 21: Browser Architecture, Plugins
+
+- Reading
+  - [The Security Architecture of the Chromium Browser](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
+  - [Cross-Origin Read Blocking (CORB)](https://chromium.googlesource.com/chromium/src/+/master/services/network/cross_origin_read_blocking_explainer.md)
 
 ### Dec 03: TBD
 
