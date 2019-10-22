@@ -185,17 +185,17 @@ These assignments are tentative and subject to change.
 
 ### Assignment 2 – Oh What a Tangled Web We Weave 🕸
 
-- Assigned: Tuesday, October 22
+- Assigned: Approx. Thursday, October 24
 - Due: Friday, November 1 at 5:00pm
 
 ### Assignment 3 – TBD
 
-- Assigned: Tuesday, November 5
+- Assigned: Approx. Tuesday, November 5
 - Due: Friday, November 15 at 5:00pm
 
 ### Assignment 4 – TBD
 
-- Assigned: Tuesday, November 19
+- Assigned: Approx. Tuesday, November 19
 - Due: Friday, November 29 at 5:00pm
 
 ## Course Policies
