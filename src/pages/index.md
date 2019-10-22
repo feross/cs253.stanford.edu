@@ -107,8 +107,9 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
   - [Protecting Browser State from Web Privacy Attacks](https://crypto.stanford.edu/safecache/sameorigin.pdf)
   - Skim: [WebKit Tracking Prevention Policy](https://webkit.org/tracking-prevention-policy/)
 
-### Oct 22: Phishing, Denial-of-service, Leaks, Side Channels
+### Oct 22: Denial-of-service, Phishing, Side Channels
 
+- [Slides](lectures/Lecture%2009.pdf)
 - Reading
   - [Alice in Warningland: A Large-Scale Field Study of Browser Security](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_akhawe.pdf)
   - [Clickjacking](http://www.sectheory.com/clickjacking.htm)
