@@ -110,6 +110,7 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 ### Oct 22: Denial-of-service, Phishing, Side Channels
 
 - [Slides](lectures/Lecture%2009.pdf)
+- [Video](https://www.youtube.com/watch?v=RfC_PzVmk4w)
 - Reading
   - [Alice in Warningland: A Large-Scale Field Study of Browser Security](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_akhawe.pdf)
   - [Clickjacking](http://www.sectheory.com/clickjacking.htm)
