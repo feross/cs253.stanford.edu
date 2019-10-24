@@ -118,6 +118,10 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 ### Oct 24: Server Injection, Denial of Service
 
+- [Slides](lectures/Lecture%2010.pdf)
+- Reading
+  - None
+
 ### Oct 29: Transport Layer Security
 
 - **Guest Lecture:** TBD
