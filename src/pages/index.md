@@ -10,14 +10,6 @@ Topics include: Principles of web security, attacks and countermeasures, the bro
 
 Tuesdays and Thursdays, 1:30 PM - 2:50 PM in classroom [380-380Y](https://campus-map.stanford.edu/?srch=380-380Y)
 
-## Communication
-
-We will primarily use [Piazza](https://piazza.com/stanford/fall2019/cs253) for sending out course announcements and answering questions. Please make sure to [sign up](https://piazza.com/stanford/fall2019/cs253).
-
-We use [Gradescope](https://gradescope.com) for assignment submissions. Enroll with the code `97BGZB`.
-
-To submit anonymous feedback to us at any point during the quarter, you may use [this form](https://forms.gle/WqKuxA2m7oycRuTt7).
-
 ## Course Staff
 
 ### Instructor
@@ -28,9 +20,9 @@ Feross Aboukhadijeh ([feross@cs.stanford.edu](mailto:feross@cs.stanford.edu))
 
 Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
-## Office Hours
+### Office Hours
 
-- Feross: Thursday 3-5pm, Gates 323 (**Update: 10/24 and 10/31 office hours are in Gates 415**)
+- Feross: Thursday 3-5pm, Gates 323 (**10/31 is at Gates 415**)
 - Esther: Monday 3-5pm, Wednesday 3-5pm, Huang Basement
 
 ## Schedule
@@ -96,7 +88,7 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 ### Oct 17: Fingerprinting and Privacy on the Web
 
-- **Guest Lecture:** Pete Snyder ([Brave Software](https://brave.com))
+- **Guest Lecture by Pete Snyder ([Brave Software](https://brave.com))**
 - [Slides](lectures/Lecture%2008.pdf)
 - [Video](https://www.youtube.com/watch?v=OVh0oHbmla0)
 - Reading
@@ -116,21 +108,21 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
   - [Clickjacking](http://www.sectheory.com/clickjacking.htm)
   - [Cross-Origin JavaScript Capability Leaks: Detection, Exploitation, and Defense](https://www.adambarth.com/papers/2009/barth-weinberger-song.pdf)
 
-### Oct 24: Server Injection, Denial of Service
+### Oct 24: Code Injection
 
 - [Slides](lectures/Lecture%2010.pdf)
+- [Video](https://www.youtube.com/watch?v=mR7yvqWmE0M)
 - Reading
   - None
 
 ### Oct 29: Transport Layer Security
 
-- **Guest Lecture:** TBD
 - Reading
   - [Looking back at the Snowden revelations](https://blog.cryptographyengineering.com/2019/09/24/looking-back-at-the-snowden-revelations/)
 
 ### Oct 31: Strict Transport Security and Public Key Pinning
 
-- **Guest Lecture:** Emily Stark & Chris Palmer ([Google Chrome](https://www.google.com/chrome/))
+- **Guest Lecture by Emily Stark & Chris Palmer ([Google Chrome](https://www.google.com/chrome/))**
 - Reading
   - [DigiNotar on Wikipedia](https://en.wikipedia.org/wiki/DigiNotar)
   - [About Public Key Pinning](https://noncombatant.org/2015/05/01/about-http-public-key-pinning/)
@@ -141,7 +133,7 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 ### Nov 07: WebAuthn
 
-- **Guest Lecture:** Lucas Garron ([GitHub](https://github.com))
+- **Guest Lecture by Lucas Garron ([GitHub](https://github.com))**
 - Reading
   - [Guide to Web Authentication](https://webauthn.guide/)
 
@@ -152,7 +144,7 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 ### Nov 14: Security in the real-world
 
-- **Guest Lecture:** Myles Borins ([Node.js](https://nodejs.org/en/) technical steering committee, [Google](https://www.google.com/))
+- **Guest Lecture by Myles Borins ([Node.js](https://nodejs.org/en/) technical steering committee, [Google](https://www.google.com/))**
 - Reading
   - TBD
 
@@ -177,8 +169,6 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 ## Assignments
 
-These assignments are tentative and subject to change.
-
 ### [Assignment 0 – Web Programming Adventure ✈️](assign0)
 
 - Assigned: Tuesday, September 24
@@ -189,9 +179,9 @@ These assignments are tentative and subject to change.
 - Assigned: Tuesday, October 8
 - Due: Friday, October 18 at 5:00pm
 
-### Assignment 2 – Oh What a Tangled Web We Weave 🕸
+### [Assignment 2 – Oh What a Tangled Web We Weave 🕸](assign2)
 
-- Assigned: Approx. Thursday, October 24
+- Assigned: Friday, October 25
 - Due: Friday, November 1 at 5:00pm
 
 ### Assignment 3 – TBD
@@ -205,6 +195,14 @@ These assignments are tentative and subject to change.
 - Due: Friday, November 29 at 5:00pm
 
 ## Course Policies
+
+### Communication
+
+We will primarily use [Piazza](https://piazza.com/stanford/fall2019/cs253) for sending out course announcements and answering questions. Please make sure to [sign up](https://piazza.com/stanford/fall2019/cs253).
+
+We use [Gradescope](https://gradescope.com) for assignment submissions. Enroll with the code `97BGZB`.
+
+To submit anonymous feedback to us at any point during the quarter, you may use [this form](https://forms.gle/WqKuxA2m7oycRuTt7).
 
 ### Prerequisites
 
