@@ -181,8 +181,8 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 ### [Assignment 2 – Oh What a Tangled Web We Weave 🕸](assign2)
 
-- Assigned: Friday, October 25
-- Due: Friday, November 1 at 5:00pm
+- Assigned: Saturday, October 26
+- Due: Tuesday, November 5 at 5:00pm
 
 ### Assignment 3 – TBD
 
