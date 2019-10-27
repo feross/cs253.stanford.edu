@@ -29,7 +29,7 @@ Your answers should be concise. Unless otherwise specified, keep answers to 100 
 
   Is this a valid argument? (Yes/No) Why or why not?
 
-3. Name a real-world case where adherence to the Robustness principle (a.k.a. Postel's law) caused a system to have worse security. Explain how the Robustness principle led to the system having worse security properties. (We mentioned an example in lecture; it's okay to use this example.)
+3. Name a real-world case where adherence to the Robustness principle (a.k.a. Postel's law) caused a system to have worse security. Explain how the Robustness principle led to the system having worse security properties.
 
 ### Same Origin Policy
 
@@ -39,9 +39,11 @@ Your answers should be concise. Unless otherwise specified, keep answers to 100 
 
 6. Can JavaScript code running on **attacker.com** use the `fetch()` API to send a GET request to **victim.com** and read the HTTP response body? (Yes/No)
 
+  Assume no CORS headers are present on the response.
+
 7. Can JavaScript code running on **attacker.com** submit a form via a POST request to **victim.com**? (Yes/No)
 
-8. A fascinating Same origin policy "bypass" was described in ["Cross-Origin JavaScript Capability Leaks: Detection, Exploitation, and Defense"](https://www.usenix.org/conference/usenixsecurity09/technical-sessions/presentation/cross-origin-javascript-capability-leaks), a talk at USENIX '09 (one of the topic security conferences). How could an attacker use this browser implementation bug to bypass the same origin policy? What was the key reason for the bug? What was the proposed mitigation? Please keep your answer to 200 words or fewer.
+8. A fascinating Same origin policy "bypass" was described in ["Cross-Origin JavaScript Capability Leaks: Detection, Exploitation, and Defense"](https://www.usenix.org/conference/usenixsecurity09/technical-sessions/presentation/cross-origin-javascript-capability-leaks), a talk at USENIX '09 (one of the top security conferences). How could an attacker use this browser implementation bug to bypass the same origin policy? What was the key reason for the bug? What was the proposed mitigation? Please keep your answer to 200 words or fewer.
 
 ### Content Security Policy
 
