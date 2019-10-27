@@ -1,9 +1,9 @@
 ## Assignment 2 – Oh What a Tangled Web We Weave 🕸
 
-- **Points:** 60
+- **Points:** 63
 - **Due:** Friday, November 1 at 5:00pm
 
-Welcome to Assignment 3 for [CS 253: Web Security](https://cs253.stanford.edu). ✨
+Welcome to Assignment 2 for [CS 253: Web Security](https://cs253.stanford.edu). ✨
 
 ### Short Answer Questions
 
