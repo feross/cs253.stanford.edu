@@ -117,8 +117,10 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 ### Oct 29: Transport Layer Security
 
+- [Slides](lectures/Lecture%2011.pdf)
 - Reading
   - [Looking back at the Snowden revelations](https://blog.cryptographyengineering.com/2019/09/24/looking-back-at-the-snowden-revelations/)
+  - [HTTPS encryption on the web](https://transparencyreport.google.com/https/overview)
 
 ### Oct 31: Strict Transport Security and Public Key Pinning
 
