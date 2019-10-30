@@ -118,6 +118,7 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 ### Oct 29: Transport Layer Security
 
 - [Slides](lectures/Lecture%2011.pdf)
+- [Video](https://www.youtube.com/watch?v=S8-rnPHjyxs)
 - Reading
   - [Looking back at the Snowden revelations](https://blog.cryptographyengineering.com/2019/09/24/looking-back-at-the-snowden-revelations/)
   - [HTTPS encryption on the web](https://transparencyreport.google.com/https/overview)
