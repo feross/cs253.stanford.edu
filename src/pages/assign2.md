@@ -135,7 +135,7 @@ You may find these resources useful:
   Why or why not?
 
   ```http
-  Content-Security-Policy: script-src 'self' 'nonce-bmV0c3BhcmtlciBydWxlcyA7KQ==';
+  Content-Security-Policy: script-src 'self' 'nonce-R28gU3RhbmZvcmQh';
   ```
 
   ```html
@@ -147,7 +147,7 @@ You may find these resources useful:
   Why or why not?
 
   ```http
-  Content-Security-Policy: script-src 'self' 'nonce-bmV0c3BhcmtlciBydWxlcyA7KQ==';
+  Content-Security-Policy: script-src 'self' 'nonce-R28gU3RhbmZvcmQh';
   ```
 
   ```html
@@ -159,7 +159,7 @@ You may find these resources useful:
   Why or why not?
 
   ```http
-  Content-Security-Policy: script-src 'self' 'nonce-bmV0c3BhcmtlciBydWxlcyA7KQ==' 'unsafe-inline';
+  Content-Security-Policy: script-src 'self' 'nonce-R28gU3RhbmZvcmQh' 'unsafe-inline';
   ```
 
   ```html
