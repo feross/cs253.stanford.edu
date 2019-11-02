@@ -35,7 +35,7 @@ Your answers should be concise. Unless otherwise specified, keep answers to 100 
 
 4. Name three ways that the Same Origin Policy protects a website.
 
-5. Can JavaScript code running on **attacker.com** send a GET request to **victim.com**? (Yes/No)
+5. Can JavaScript code running on **attacker.com** cause a GET request to be sent to **victim.com**? (Yes/No)
 
 6. Can JavaScript code running on **attacker.com** use the `fetch()` API to send a GET request to **victim.com** and read the HTTP response body? (Yes/No)
 
