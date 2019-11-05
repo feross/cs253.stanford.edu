@@ -123,9 +123,11 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
   - [Looking back at the Snowden revelations](https://blog.cryptographyengineering.com/2019/09/24/looking-back-at-the-snowden-revelations/)
   - [HTTPS encryption on the web](https://transparencyreport.google.com/https/overview)
 
-### Oct 31: Strict Transport Security and Public Key Pinning
+### Oct 31: HTTPS in the Real World: A Spooky Tale
 
 - **Guest Lecture by Emily Stark & Chris Palmer ([Google Chrome](https://www.google.com/chrome/))**
+- [Slides](lectures/Lecture%2012.pdf)
+- [Video](https://www.youtube.com/watch?v=jN26N8QS5Os)
 - Reading
   - [DigiNotar on Wikipedia](https://en.wikipedia.org/wiki/DigiNotar)
   - [About Public Key Pinning](https://noncombatant.org/2015/05/01/about-http-public-key-pinning/)
@@ -133,6 +135,9 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
   - [Rolling out Public Key Pinning with HPKP Reporting](https://developers.google.com/web/updates/2015/09/HPKP-reporting-with-chrome-46)
 
 ### Nov 05: Authentication
+
+- Reading
+  - None
 
 ### Nov 07: WebAuthn
 
@@ -149,9 +154,12 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 - **Guest Lecture by Myles Borins ([Node.js](https://nodejs.org/en/) technical steering committee, [Google](https://www.google.com/))**
 - Reading
-  - TBD
+  - None
 
 ### Nov 19: Server security: Side Channels, Local HTTP servers
+
+- Reading
+  - None
 
 ### Nov 21: Browser Architecture, Plugins
 
@@ -159,7 +167,10 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
   - [The Security Architecture of the Chromium Browser](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
   - [Cross-Origin Read Blocking (CORB)](https://chromium.googlesource.com/chromium/src/+/master/services/network/cross_origin_read_blocking_explainer.md)
 
-### Dec 03: TBD
+### Dec 03
+
+- Reading
+  - None
 
 ### Dec 05: Writing Secure Code, Ecosystem Issues
 
