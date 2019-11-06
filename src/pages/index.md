@@ -22,7 +22,7 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 ### Office Hours
 
-- Feross: Thursday 3-5pm, Gates 323 (**10/31 is at Gates 415**)
+- Feross: Thursday 3-5pm, Gates 323
 - Esther: Monday 3-5pm, Wednesday 3-5pm, Huang Basement
 
 ## Schedule
@@ -136,44 +136,60 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 ### Nov 05: Authentication
 
+- [Slides](lectures/Lecture%2013.pdf)
+- [Video](TODO)
 - Reading
-  - None
+  - [Authentication Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
 
 ### Nov 07: WebAuthn
 
 - **Guest Lecture by Lucas Garron ([GitHub](https://github.com))**
+<!-- - [Slides](lectures/Lecture%20TODO.pdf) -->
+<!-- - [Video](TODO) -->
 - Reading
   - [Guide to Web Authentication](https://webauthn.guide/)
 
 ### Nov 12: Server business logic errors, JavaScript security
 
+<!-- - [Slides](lectures/Lecture%20TODO.pdf) -->
+<!-- - [Video](TODO) -->
 - Reading
   - [Exploiting Buffer](https://snyk.io/blog/exploiting-buffer/)
 
 ### Nov 14: Security in the real-world
 
 - **Guest Lecture by Myles Borins ([Node.js](https://nodejs.org/en/) technical steering committee, [Google](https://www.google.com/))**
+<!-- - [Slides](lectures/Lecture%20TODO.pdf) -->
+<!-- - [Video](TODO) -->
 - Reading
   - None
 
 ### Nov 19: Server security: Side Channels, Local HTTP servers
 
+<!-- - [Slides](lectures/Lecture%20TODO.pdf) -->
+<!-- - [Video](TODO) -->
 - Reading
   - None
 
 ### Nov 21: Browser Architecture, Plugins
 
+<!-- - [Slides](lectures/Lecture%20TODO.pdf) -->
+<!-- - [Video](TODO) -->
 - Reading
   - [The Security Architecture of the Chromium Browser](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
   - [Cross-Origin Read Blocking (CORB)](https://chromium.googlesource.com/chromium/src/+/master/services/network/cross_origin_read_blocking_explainer.md)
 
 ### Dec 03
 
+<!-- - [Slides](lectures/Lecture%20TODO.pdf) -->
+<!-- - [Video](TODO) -->
 - Reading
   - None
 
 ### Dec 05: Writing Secure Code, Ecosystem Issues
 
+<!-- - [Slides](lectures/Lecture%20TODO.pdf) -->
+<!-- - [Video](TODO) -->
 - Reading
   - [Backdooring Your JavaScript Using Minifier Bugs](https://diracdeltas.github.io/blog/backdooring-js/)
   - [I’m harvesting credit card numbers and passwords from your site. Here’s how.](https://medium.com/hackernoon/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
