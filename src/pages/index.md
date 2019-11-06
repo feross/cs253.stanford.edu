@@ -73,7 +73,7 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 - [Slides](lectures/Lecture%2006.pdf)
 - [Video](https://www.youtube.com/watch?v=XTcqlOFhpPI)
 - Reading
-  - [Cross Site Scripting Prevention](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
+  - [Cross Site Scripting Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
   - [XSS Filter Evasion Cheat Sheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)
 
 ### Oct 15: Cross-Site Scripting Defenses
@@ -137,7 +137,7 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 ### Nov 05: Authentication
 
 - [Slides](lectures/Lecture%2013.pdf)
-- [Video](TODO)
+- [Video](https://www.youtube.com/watch?v=lgmGSYwJc20)
 - Reading
   - [Authentication Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
 
@@ -177,7 +177,8 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 <!-- - [Video](TODO) -->
 - Reading
   - [The Security Architecture of the Chromium Browser](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
-  - [Cross-Origin Read Blocking (CORB)](https://chromium.googlesource.com/chromium/src/+/master/services/network/cross_origin_read_blocking_explainer.md)
+  - [Cross-Origin Read Blocking (CORB) primer](https://www.chromium.org/Home/chromium-security/corb-for-developers)
+  - Skim: [Cross-Origin Read Blocking (CORB) explainer](https://chromium.googlesource.com/chromium/src/+/master/services/network/cross_origin_read_blocking_explainer.md)
 
 ### Dec 03
 
