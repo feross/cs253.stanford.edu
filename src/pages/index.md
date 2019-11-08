@@ -156,13 +156,14 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 - Reading
   - [Exploiting Buffer](https://snyk.io/blog/exploiting-buffer/)
 
-### Nov 14: Security in the real-world
+### Nov 14: Managing security concerns in a large Open Source project
 
 - **Guest Lecture by Myles Borins ([Node.js](https://nodejs.org/en/) technical steering committee, [Google](https://www.google.com/))**
 <!-- - [Slides](lectures/Lecture%20TODO.pdf) -->
 <!-- - [Video](TODO) -->
 - Reading
-  - None
+  - [Fantastic Timers and Where to Find Them: High-Resolution Microarchitectural Attacks in JavaScript](https://gruss.cc/files/fantastictimers.pdf)
+  - [A Roadmap for Node.js Security](https://nodesecroadmap.fyi)
 
 ### Nov 19: Server security: Side Channels, Local HTTP servers
 
