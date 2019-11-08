@@ -141,11 +141,11 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 - Reading
   - [Authentication Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
 
-### Nov 07: WebAuthn
+### Nov 07: WebAuthn - The future of user authentication on the web 🤞
 
 - **Guest Lecture by Lucas Garron ([GitHub](https://github.com))**
-<!-- - [Slides](lectures/Lecture%20TODO.pdf) -->
-<!-- - [Video](TODO) -->
+- [Slides](lectures/Lecture%2014.pdf)
+- [Video](https://www.youtube.com/watch?v=_nPk2HgNpjE)
 - Reading
   - [Guide to Web Authentication](https://webauthn.guide/)
 
