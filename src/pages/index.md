@@ -149,12 +149,7 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 - Reading
   - [Guide to Web Authentication](https://webauthn.guide/)
 
-### Nov 12: Server business logic errors, JavaScript security
-
-<!-- - [Slides](lectures/Lecture%20TODO.pdf) -->
-<!-- - [Video](TODO) -->
-- Reading
-  - [Exploiting Buffer](https://snyk.io/blog/exploiting-buffer/)
+### Nov 12: No class
 
 ### Nov 14: Managing security concerns in a large Open Source project
 
@@ -165,14 +160,21 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
   - [Fantastic Timers and Where to Find Them: High-Resolution Microarchitectural Attacks in JavaScript](https://gruss.cc/files/fantastictimers.pdf)
   - [A Roadmap for Node.js Security](https://nodesecroadmap.fyi)
 
-### Nov 19: Server security: Side Channels, Local HTTP servers
+### Nov 19: Server business logic errors, JavaScript security
+
+<!-- - [Slides](lectures/Lecture%20TODO.pdf) -->
+<!-- - [Video](TODO) -->
+- Reading
+  - [Exploiting Buffer](https://snyk.io/blog/exploiting-buffer/)
+
+### Nov 21: Server security: Side Channels, Local HTTP servers
 
 <!-- - [Slides](lectures/Lecture%20TODO.pdf) -->
 <!-- - [Video](TODO) -->
 - Reading
   - None
 
-### Nov 21: Browser Architecture, Plugins
+### Dec 03: Browser Architecture, Plugins
 
 <!-- - [Slides](lectures/Lecture%20TODO.pdf) -->
 <!-- - [Video](TODO) -->
@@ -180,13 +182,6 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
   - [The Security Architecture of the Chromium Browser](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
   - [Cross-Origin Read Blocking (CORB) primer](https://www.chromium.org/Home/chromium-security/corb-for-developers)
   - Skim: [Cross-Origin Read Blocking (CORB) explainer](https://chromium.googlesource.com/chromium/src/+/master/services/network/cross_origin_read_blocking_explainer.md)
-
-### Dec 03
-
-<!-- - [Slides](lectures/Lecture%20TODO.pdf) -->
-<!-- - [Video](TODO) -->
-- Reading
-  - None
 
 ### Dec 05: Writing Secure Code, Ecosystem Issues
 
@@ -214,17 +209,17 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 ### [Assignment 2 – Oh What a Tangled Web We Weave 🕸](assign2)
 
 - Assigned: Saturday, October 26
-- Due: Tuesday, November 5 at 11:59pm
+- Due: Thursday, November 7 at 11:59pm
 
 ### Assignment 3 – TBD
 
-- Assigned: Approx. Tuesday, November 5
-- Due: Friday, November 15 at 5:00pm
+- Assigned: Approx. Tuesday, November 12
+- Due: Friday, November 22 at 5:00pm
 
 ### Assignment 4 – TBD
 
-- Assigned: Approx. Tuesday, November 19
-- Due: Friday, November 29 at 5:00pm
+- Assigned: Approx. Mon, November 25
+- Due: Friday, December 6 at 5:00pm
 
 ## Course Policies
 
