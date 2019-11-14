@@ -154,7 +154,7 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 ### Nov 14: Managing security concerns in a large Open Source project
 
 - **Guest Lecture by Myles Borins ([Node.js](https://nodejs.org/en/) technical steering committee, [Google](https://www.google.com/))**
-<!-- - [Slides](lectures/Lecture%20TODO.pdf) -->
+- [Slides](https://kni.sh/oss-security)
 <!-- - [Video](TODO) -->
 - Reading
   - [Fantastic Timers and Where to Find Them: High-Resolution Microarchitectural Attacks in JavaScript](https://gruss.cc/files/fantastictimers.pdf)
