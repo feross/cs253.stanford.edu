@@ -155,7 +155,7 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 - **Guest Lecture by Myles Borins ([Node.js](https://nodejs.org/en/) technical steering committee, [Google](https://www.google.com/))**
 - [Slides](https://kni.sh/oss-security)
-<!-- - [Video](TODO) -->
+- [Video](https://www.youtube.com/watch?v=lX6KLL0sVTU)
 - Reading
   - [Fantastic Timers and Where to Find Them: High-Resolution Microarchitectural Attacks in JavaScript](https://gruss.cc/files/fantastictimers.pdf)
   - [A Roadmap for Node.js Security](https://nodesecroadmap.fyi)
