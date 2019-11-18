@@ -43,7 +43,7 @@ Your answers should be concise. Unless otherwise specified, keep answers to 100 
 
 7. Can JavaScript code running on **attacker.com** submit a form via a POST request to **victim.com**? (Yes/No)
 
-8. A fascinating Same origin policy "bypass" was described in ["Cross-Origin JavaScript Capability Leaks: Detection, Exploitation, and Defense"](https://www.usenix.org/conference/usenixsecurity09/technical-sessions/presentation/cross-origin-javascript-capability-leaks), a talk at USENIX '09 (one of the top security conferences). How could an attacker use this browser implementation bug to bypass the same origin policy? What was the key reason for the bug? What was the proposed mitigation? Please keep your answer to 200 words or fewer.
+8. A fascinating Same origin policy "bypass" was described in ["Cross-Origin JavaScript Capability Leaks: Detection, Exploitation, and Defense"](https://www.usenix.org/conference/usenixsecurity09/technical-sessions/presentation/cross-origin-javascript-capability-leaks), a talk at USENIX '09 (one of the top security conferences). How could an attacker use this browser implementation bug to bypass the same origin policy? What was the key, underlying reason for the bug? What was the proposed mitigation? Please keep your answer to 200 words or fewer.
 
 ### Content Security Policy
 
