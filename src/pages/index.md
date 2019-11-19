@@ -160,9 +160,9 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
   - [Fantastic Timers and Where to Find Them: High-Resolution Microarchitectural Attacks in JavaScript](https://gruss.cc/files/fantastictimers.pdf)
   - [A Roadmap for Node.js Security](https://nodesecroadmap.fyi)
 
-### Nov 19: Server business logic errors, JavaScript security
+### Nov 19: Server security: Safe coding practices
 
-<!-- - [Slides](lectures/Lecture%20TODO.pdf) -->
+- [Slides](lectures/Lecture%2017.pdf)
 <!-- - [Video](TODO) -->
 - Reading
   - [Exploiting Buffer](https://snyk.io/blog/exploiting-buffer/)
@@ -183,7 +183,7 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
   - [Cross-Origin Read Blocking (CORB) primer](https://www.chromium.org/Home/chromium-security/corb-for-developers)
   - Skim: [Cross-Origin Read Blocking (CORB) explainer](https://chromium.googlesource.com/chromium/src/+/master/services/network/cross_origin_read_blocking_explainer.md)
 
-### Dec 05: Writing Secure Code, Ecosystem Issues
+### Dec 05: Ecosystem Issues
 
 <!-- - [Slides](lectures/Lecture%20TODO.pdf) -->
 <!-- - [Video](TODO) -->
