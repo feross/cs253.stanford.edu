@@ -160,16 +160,16 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
   - [Fantastic Timers and Where to Find Them: High-Resolution Microarchitectural Attacks in JavaScript](https://gruss.cc/files/fantastictimers.pdf)
   - [A Roadmap for Node.js Security](https://nodesecroadmap.fyi)
 
-### Nov 19: Server security: Safe coding practices
+### Nov 19: Server security, Safe coding practices
 
 - [Slides](lectures/Lecture%2017.pdf)
 - [Video](https://www.youtube.com/watch?v=Ox15IMOvWfA)
 - Reading
   - [Exploiting Buffer](https://snyk.io/blog/exploiting-buffer/)
 
-### Nov 21: Server security: Side Channels, Local HTTP servers
+### Nov 21: Local HTTP server security
 
-<!-- - [Slides](lectures/Lecture%20TODO.pdf) -->
+- [Slides](lectures/Lecture%2018.pdf)
 <!-- - [Video](TODO) -->
 - Reading
   - None
