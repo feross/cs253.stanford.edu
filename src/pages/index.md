@@ -163,7 +163,7 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 ### Nov 19: Server security: Safe coding practices
 
 - [Slides](lectures/Lecture%2017.pdf)
-<!-- - [Video](TODO) -->
+- [Video](https://www.youtube.com/watch?v=Ox15IMOvWfA)
 - Reading
   - [Exploiting Buffer](https://snyk.io/blog/exploiting-buffer/)
 
