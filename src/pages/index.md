@@ -170,7 +170,7 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 ### Nov 21: Local HTTP server security
 
 - [Slides](lectures/Lecture%2018.pdf)
-<!-- - [Video](TODO) -->
+- [Video](https://www.youtube.com/watch?v=wLgcb4jZwGM)
 - Reading
   - None
 
