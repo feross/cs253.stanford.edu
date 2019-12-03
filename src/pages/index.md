@@ -174,7 +174,15 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 - Reading
   - None
 
-### Dec 03: Browser Architecture, Plugins
+### Dec 03: DNS rebinding attacks
+
+- [Slides](lectures/Lecture%2019.pdf)
+<!-- - [Video](TODO) -->
+- Reading
+  - [Millions of Streaming Devices Are Vulnerable to a Retro Web Attack](https://www.wired.com/story/chromecast-roku-sonos-dns-rebinding-vulnerability/)
+  - [Protecting Browsers from DNS Rebinding Attacks](https://crypto.stanford.edu/dns/dns-rebinding.pdf)
+
+### Dec 05: Browser architecture, Ecosystem issues, The future of web security
 
 <!-- - [Slides](lectures/Lecture%20TODO.pdf) -->
 <!-- - [Video](TODO) -->
@@ -182,17 +190,9 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
   - [The Security Architecture of the Chromium Browser](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
   - [Cross-Origin Read Blocking (CORB) primer](https://www.chromium.org/Home/chromium-security/corb-for-developers)
   - Skim: [Cross-Origin Read Blocking (CORB) explainer](https://chromium.googlesource.com/chromium/src/+/master/services/network/cross_origin_read_blocking_explainer.md)
-
-### Dec 05: Ecosystem Issues
-
-<!-- - [Slides](lectures/Lecture%20TODO.pdf) -->
-<!-- - [Video](TODO) -->
-- Reading
   - [Backdooring Your JavaScript Using Minifier Bugs](https://diracdeltas.github.io/blog/backdooring-js/)
   - [I’m harvesting credit card numbers and passwords from your site. Here’s how.](https://medium.com/hackernoon/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
   - [Major sites running unauthenticated JavaScript on their payment pages](https://shkspr.mobi/blog/2018/11/major-sites-running-unauthenticated-javascript-on-their-payment-pages/)
-  - [Statement on event-stream compromise](https://gist.github.com/dominictarr/9fd9c1024c94592bc7268d36b8d83b3a)
-  - [Google and Mozilla are failing to support browser extension developers](https://armin.dev/blog/2019/08/supporting-browser-extension-developers/)
 
 ## Assignments
 
