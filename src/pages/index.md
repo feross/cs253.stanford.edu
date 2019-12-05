@@ -184,7 +184,7 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 ### Dec 05: Browser architecture, Ecosystem issues, The future of web security
 
-<!-- - [Slides](lectures/Lecture%20TODO.pdf) -->
+- [Slides](lectures/Lecture%2020.pdf)
 <!-- - [Video](TODO) -->
 - Reading
   - [The Security Architecture of the Chromium Browser](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
