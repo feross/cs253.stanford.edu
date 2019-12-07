@@ -177,15 +177,15 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 ### Dec 03: DNS rebinding attacks
 
 - [Slides](lectures/Lecture%2019.pdf)
-<!-- - [Video](TODO) -->
+- [Video](https://www.youtube.com/watch?v=bZW_55LIz0w)
 - Reading
   - [Millions of Streaming Devices Are Vulnerable to a Retro Web Attack](https://www.wired.com/story/chromecast-roku-sonos-dns-rebinding-vulnerability/)
   - [Protecting Browsers from DNS Rebinding Attacks](https://crypto.stanford.edu/dns/dns-rebinding.pdf)
 
-### Dec 05: Browser architecture, Ecosystem issues, The future of web security
+### Dec 05: Browser architecture, Writing secure code
 
 - [Slides](lectures/Lecture%2020.pdf)
-<!-- - [Video](TODO) -->
+- [Video](https://www.youtube.com/watch?v=5aguccOpGes)
 - Reading
   - [The Security Architecture of the Chromium Browser](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
   - [Cross-Origin Read Blocking (CORB) primer](https://www.chromium.org/Home/chromium-security/corb-for-developers)
@@ -251,6 +251,7 @@ Each assignment is worth 15%. There is no midterm.
 ### Final exam
 
 - Tuesday, December 10, 3:30pm - 6:30pm in [200-305](https://campus-map.stanford.edu/?srch=200-305)
+- Closed laptop/notes. Cheat sheet comprised of two pieces of paper, double-sided is permitted.
 
 ### Collaboration Policy
 
