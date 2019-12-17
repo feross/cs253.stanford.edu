@@ -211,14 +211,14 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 - Assigned: Saturday, October 26
 - Due: Thursday, November 7 at 11:59pm
 
-### Assignment 3 – TBD
+### Assignment 3 – See Piazza
 
-- Assigned: Approx. Tuesday, November 12
+- Assigned: Tuesday, November 12
 - Due: Friday, November 22 at 5:00pm
 
-### Assignment 4 – TBD
+### Assignment 4 – See Piazza
 
-- Assigned: Approx. Mon, November 25
+- Assigned: Mon, November 25
 - Due: Friday, December 6 at 5:00pm
 
 ## Course Policies
@@ -248,10 +248,14 @@ Attendance at lectures is mandatory. Do not enroll in this course if you are tak
 
 Each assignment is worth 15%. There is no midterm.
 
-### Final exam
+### Final Exam
 
 - Tuesday, December 10, 3:30pm - 6:30pm in [200-305](https://campus-map.stanford.edu/?srch=200-305)
-- Closed laptop/notes. Cheat sheet comprised of two pieces of paper, double-sided is permitted.
+
+### Previous Final Exams
+
+- [Final Exam 2019](/cs253-final-2019.pdf) ([Solutions](/cs253-final-2019-solutions.pdf))
+- [More Sample Final Exam Questions](/cs253-sample-final.pdf) ([Solutions](/cs253-sample-final-solutions.pdf))
 
 ### Collaboration Policy
 
