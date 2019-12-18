@@ -25,6 +25,56 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 - Feross: Thursday 3-5pm, Gates 323
 - Esther: Monday 3-5pm, Wednesday 3-5pm, Huang Basement
 
+
+## Course Policies
+
+### Communication
+
+We will primarily use [Piazza](https://piazza.com/stanford/fall2019/cs253) for sending out course announcements and answering questions. Please make sure to [sign up](https://piazza.com/stanford/fall2019/cs253).
+
+We use [Gradescope](https://gradescope.com) for assignment submissions. Enroll with the code `97BGZB`.
+
+To submit anonymous feedback to us at any point during the quarter, you may use [this form](https://forms.gle/WqKuxA2m7oycRuTt7).
+
+### Prerequisites
+
+CS 142, or an equivalent amount of web development experience, is a prerequisite. You should also be curious about web security and excited to learn clever attacks, defenses, and techniques for writing secure code.
+
+An introductory security course, such as CS 155, is not a formal prerequisite. The material in this course is focused specifically on the web, while CS 155 covers security more broadly.
+
+### Attendence
+
+Attendance at lectures is mandatory. Do not enroll in this course if you are taking another course that meets at the same time.
+
+### Grading
+
+- Assignments (75%)
+- Final Exam (25%)
+
+Each assignment is worth 15%. There is no midterm.
+
+### Final Exam
+
+- Tuesday, December 10, 3:30pm - 6:30pm in [200-305](https://campus-map.stanford.edu/?srch=200-305)
+
+### Previous Final Exams
+
+- [Final Exam 2019](cs253-final-2019.pdf) ([Solutions](cs253-final-2019-solutions.pdf))
+- [More Sample Final Exam Questions](cs253-sample-final.pdf) ([Solutions](cs253-sample-final-solutions.pdf))
+
+### Collaboration Policy
+
+You may discuss the assignments with other students and you may work together to come up with solutions to the problems. If you do so, you must list the name of your collaborators in the submission. Each student must write up their solutions independently.
+
+### Late Submissions
+
+You get three “late days” in total during the quarter. You may use a late day to submit an assignment after the deadline. You can use at most three late days for any single assignment, and you may only use late days in one-day increments (no partial late days).
+
+If you submit an assignment more than 72 hours after the deadline, or if you submit an assignment late after running out of late days, you will receive **no credit** for the submission. Please submit your assignments on time and save your late days for extraordinary situations.
+
+If you have questions about these policies, please ask us.
+
+
 ## Schedule
 
 ### Sep 24: What is Web Security? HTML & JavaScript Review
@@ -220,51 +270,3 @@ Esther Goldstein ([egolds@stanford.edu](mailto:egolds@stanford.edu))
 
 - Assigned: Mon, November 25
 - Due: Friday, December 6 at 5:00pm
-
-## Course Policies
-
-### Communication
-
-We will primarily use [Piazza](https://piazza.com/stanford/fall2019/cs253) for sending out course announcements and answering questions. Please make sure to [sign up](https://piazza.com/stanford/fall2019/cs253).
-
-We use [Gradescope](https://gradescope.com) for assignment submissions. Enroll with the code `97BGZB`.
-
-To submit anonymous feedback to us at any point during the quarter, you may use [this form](https://forms.gle/WqKuxA2m7oycRuTt7).
-
-### Prerequisites
-
-CS 142, or an equivalent amount of web development experience, is a prerequisite. You should also be curious about web security and excited to learn clever attacks, defenses, and techniques for writing secure code.
-
-An introductory security course, such as CS 155, is not a formal prerequisite. The material in this course is focused specifically on the web, while CS 155 covers security more broadly.
-
-### Attendence
-
-Attendance at lectures is mandatory. Do not enroll in this course if you are taking another course that meets at the same time.
-
-### Grading
-
-- Assignments (75%)
-- Final Exam (25%)
-
-Each assignment is worth 15%. There is no midterm.
-
-### Final Exam
-
-- Tuesday, December 10, 3:30pm - 6:30pm in [200-305](https://campus-map.stanford.edu/?srch=200-305)
-
-### Previous Final Exams
-
-- [Final Exam 2019](cs253-final-2019.pdf) ([Solutions](cs253-final-2019-solutions.pdf))
-- [More Sample Final Exam Questions](cs253-sample-final.pdf) ([Solutions](cs253-sample-final-solutions.pdf))
-
-### Collaboration Policy
-
-You may discuss the assignments with other students and you may work together to come up with solutions to the problems. If you do so, you must list the name of your collaborators in the submission. Each student must write up their solutions independently.
-
-### Late Submissions
-
-You get three “late days” in total during the quarter. You may use a late day to submit an assignment after the deadline. You can use at most three late days for any single assignment, and you may only use late days in one-day increments (no partial late days).
-
-If you submit an assignment more than 72 hours after the deadline, or if you submit an assignment late after running out of late days, you will receive **no credit** for the submission. Please submit your assignments on time and save your late days for extraordinary situations.
-
-If you have questions about these policies, please ask us.
