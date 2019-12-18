@@ -254,8 +254,8 @@ Each assignment is worth 15%. There is no midterm.
 
 ### Previous Final Exams
 
-- [Final Exam 2019](/cs253-final-2019.pdf) ([Solutions](/cs253-final-2019-solutions.pdf))
-- [More Sample Final Exam Questions](/cs253-sample-final.pdf) ([Solutions](/cs253-sample-final-solutions.pdf))
+- [Final Exam 2019](cs253-final-2019.pdf) ([Solutions](cs253-final-2019-solutions.pdf))
+- [More Sample Final Exam Questions](cs253-sample-final.pdf) ([Solutions](cs253-sample-final-solutions.pdf))
 
 ### Collaboration Policy
 
