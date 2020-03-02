@@ -270,3 +270,9 @@ If you have questions about these policies, please ask us.
 
 - Assigned: Mon, November 25
 - Due: Friday, December 6 at 5:00pm
+
+<br>
+<br>
+<br>
+
+Website design by [Feross Aboukhadijeh](https://feross.org).
