@@ -99,7 +99,7 @@ learnyouhtml
 
 You'll see the menu:
 
-![](learnyouhtml.png)
+![](../static/learnyouhtml.png)
 
 Navigate the menu with the up & down arrow keys. Choose a challenge by hitting enter.
 
@@ -136,7 +136,7 @@ javascripting
 
 You'll see the menu:
 
-![](javascripting.png)
+![](../static/javascripting.png)
 
 Complete all the exercises. There are 20 in total.
 
@@ -161,7 +161,7 @@ learnyounode
 
 You'll see the menu:
 
-![](learnyounode.png)
+![](../static/learnyounode.png)
 
 Complete all the exercises. There are 13 in total.
 
