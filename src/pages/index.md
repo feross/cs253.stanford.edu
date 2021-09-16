@@ -78,7 +78,9 @@ If you have questions about these policies, please ask us.
 
 ## Schedule
 
-### _Review_
+---
+
+## _Part 1: Basics_
 
 ### Sep 21: What is Web Security? HTML & JavaScript Review
 
@@ -89,10 +91,6 @@ If you have questions about these policies, please ask us.
   - [Inside look at modern web browser (part 2)](https://developers.google.com/web/updates/2018/09/inside-browser-part2)
   - [Inside look at modern web browser (part 3)](https://developers.google.com/web/updates/2018/09/inside-browser-part3)
   - [A Re-Introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-
----
-
-### _Sessions_
 
 ### Sep 23: HTTP, Cookies, Sessions
 
@@ -114,7 +112,7 @@ If you have questions about these policies, please ask us.
 
 ---
 
-### _Same origin policy_
+## _Part 2: Client-side attacks and defenses_
 
 ### Sep 30: Cross-Site Request Forgery, Same Origin Policy
 
@@ -130,10 +128,6 @@ If you have questions about these policies, please ask us.
 <!-- - [Video](https://www.youtube.com/watch?v=ud9cVQDte3A) -->
 - Reading
   - None
-
----
-
-### _Cross site scripting_
 
 ### Oct 07: Cross-Site Scripting (XSS)
 
@@ -152,10 +146,6 @@ If you have questions about these policies, please ask us.
   - [CSP is Dead: Long Live CSP](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45542.pdf)
   - [Trusted Types](https://developers.google.com/web/updates/2019/02/trusted-types)
   - [Sanitising HTML: the DOM clobbering issue](https://fastmail.blog/2015/12/20/sanitising-html-the-dom-clobbering-issue/)
-
----
-
-### _Protecting users_
 
 ### Oct 14: Denial-of-service, Phishing, Side Channels
 
@@ -181,7 +171,7 @@ If you have questions about these policies, please ask us.
 
 ---
 
-### _Server-side attacks and defenses_
+## _Part 3: Server-side attacks and defenses_
 
 ### Oct 21: Code Injection
 
@@ -196,10 +186,6 @@ If you have questions about these policies, please ask us.
 <!-- - [Video](https://www.youtube.com/watch?v=Ox15IMOvWfA) -->
 - Reading
   - [Exploiting Buffer](https://snyk.io/blog/exploiting-buffer/)
-
----
-
-### _Network security_
 
 ### Oct 28: Transport Layer Security
 
@@ -225,7 +211,7 @@ If you have questions about these policies, please ask us.
 
 ---
 
-### _User Authentication_
+## _Part 4: User Authentication_
 
 ### Nov 09: Authentication
 
@@ -244,7 +230,7 @@ If you have questions about these policies, please ask us.
 
 ---
 
-### _Web security in the real world_
+## _Part 5: Web security in the real world_
 
 ### Nov 16: Managing security concerns in a large Open Source project
 
