@@ -168,15 +168,25 @@ If you have questions about these policies, please ask us.
 - Reading
   - None
 
-### Oct 26: Transport Layer Security
+### Oct 26: Authentication
 
+<!-- - [Slides](lectures/Lecture%2013.pdf) -->
+<!-- - [Video](https://www.youtube.com/watch?v=lgmGSYwJc20) -->
+- Reading
+  - [Authentication Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
+
+### Oct 28: Transport Layer Security
+
+- **Guest Lecture by Dan Boneh ([Stanford](https://stanford.edu))**
 <!-- - [Slides](lectures/Lecture%2011.pdf) -->
 <!-- - [Video](https://www.youtube.com/watch?v=S8-rnPHjyxs) -->
 - Reading
   - [Looking back at the Snowden revelations](https://blog.cryptographyengineering.com/2019/09/24/looking-back-at-the-snowden-revelations/)
   - [HTTPS encryption on the web](https://transparencyreport.google.com/https/overview)
 
-### Oct 28: HTTPS in the Real World: A Spooky Tale
+### Nov 02: No class
+
+### Nov 04: HTTPS in the Real World
 
 <!-- - **Guest Lecture by Emily Stark & Chris Palmer ([Google Chrome](https://www.google.com/chrome/))** -->
 <!-- - [Slides](lectures/Lecture%2012.pdf) -->
@@ -186,15 +196,6 @@ If you have questions about these policies, please ask us.
   - [About Public Key Pinning](https://noncombatant.org/2015/05/01/about-http-public-key-pinning/)
   - [What Is HPKP For?](https://noncombatant.org/2015/11/24/what-is-hpkp-for/)
   - [Rolling out Public Key Pinning with HPKP Reporting](https://developers.google.com/web/updates/2015/09/HPKP-reporting-with-chrome-46)
-
-### Nov 02: No class
-
-### Nov 04: Authentication
-
-<!-- - [Slides](lectures/Lecture%2013.pdf) -->
-<!-- - [Video](https://www.youtube.com/watch?v=lgmGSYwJc20) -->
-- Reading
-  - [Authentication Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
 
 ### Nov 09: WebAuthn - The future of user authentication on the web
 
