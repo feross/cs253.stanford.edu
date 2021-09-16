@@ -14,12 +14,12 @@ Tuesdays and Thursdays, 1:30 PM - 2:50 PM in classroom [320-105](http://campus-m
 
 ### Instructor
 
-Feross Aboukhadijeh ([feross@cs.stanford.edu](mailto:feross@cs.stanford.edu))
+- Feross Aboukhadijeh ([feross@cs.stanford.edu](mailto:feross@cs.stanford.edu))
 
-### Teaching Assistant
+### Teaching Assistants
 
-Anna Zeng ([aszeng@stanford.edu](mailto:aszeng@stanford.edu))
-Timothy (Tiancheng) Gu ([tigu@stanford.edu](mailto:tigu@stanford.edu))
+- Anna Zeng ([aszeng@stanford.edu](mailto:aszeng@stanford.edu))
+- Timothy Gu ([tigu@stanford.edu](mailto:tigu@stanford.edu))
 
 ### Office Hours
 
@@ -118,6 +118,8 @@ If you have questions about these policies, please ask us.
 
 <!-- - [Slides](lectures/Lecture%2005.pdf) -->
 <!-- - [Video](https://www.youtube.com/watch?v=ud9cVQDte3A) -->
+- Reading
+  - None
 
 ### Oct 07: Cross-Site Scripting (XSS)
 

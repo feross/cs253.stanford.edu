@@ -211,7 +211,7 @@ You may find these resources useful:
 
 ### Gradescope
 
-We'll use [Gradescope](https://gradescope.com) for submissions. Enroll with the code `97BGZB`.
+We'll use [Gradescope](https://gradescope.com) for submissions. The enrollment code is on the course homepage.
 
 ### The moment of truth
 
