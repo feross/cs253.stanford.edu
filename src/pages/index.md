@@ -198,7 +198,7 @@ If you have questions about these policies, please ask us.
 
 ### Nov 09: WebAuthn - The future of user authentication on the web
 
-<!-- - **Guest Lecture by Lucas Garron ([GitHub](https://github.com))** -->
+- **Guest Lecture by Lucas Garron ([GitHub](https://github.com))**
 <!-- - [Slides](lectures/Lecture%2014.pdf) -->
 <!-- - [Video](https://www.youtube.com/watch?v=_nPk2HgNpjE) -->
 - Reading
