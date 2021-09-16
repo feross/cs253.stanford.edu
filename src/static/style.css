@@ -60,6 +60,16 @@ img {
   max-width: 100%;
 }
 
+hr {
+  border: 1px dotted #DDD;
+}
+
+@media (prefers-color-scheme: dark) {
+  hr {
+    border: 1px dotted #444;
+  }
+}
+
 :not(a) > code {
   border-radius: 3px;
   background-color: var(--dark-grey);

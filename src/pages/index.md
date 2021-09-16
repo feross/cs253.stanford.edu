@@ -78,6 +78,8 @@ If you have questions about these policies, please ask us.
 
 ## Schedule
 
+### _Review_
+
 ### Sep 21: What is Web Security? HTML & JavaScript Review
 
 <!-- - [Slides](lectures/Lecture%2001.pdf) -->
@@ -87,6 +89,10 @@ If you have questions about these policies, please ask us.
   - [Inside look at modern web browser (part 2)](https://developers.google.com/web/updates/2018/09/inside-browser-part2)
   - [Inside look at modern web browser (part 3)](https://developers.google.com/web/updates/2018/09/inside-browser-part3)
   - [A Re-Introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+
+---
+
+### _Sessions_
 
 ### Sep 23: HTTP, Cookies, Sessions
 
@@ -106,6 +112,10 @@ If you have questions about these policies, please ask us.
   - [Incrementally Better Cookies](https://tools.ietf.org/html/draft-west-cookie-incrementalism-00#section-4.1)
   - [CSRF Is Dead](https://scotthelme.co.uk/csrf-is-dead/)
 
+---
+
+### _Same origin policy_
+
 ### Sep 30: Cross-Site Request Forgery, Same Origin Policy
 
 <!-- - [Slides](lectures/Lecture%2004.pdf) -->
@@ -120,6 +130,10 @@ If you have questions about these policies, please ask us.
 <!-- - [Video](https://www.youtube.com/watch?v=ud9cVQDte3A) -->
 - Reading
   - None
+
+---
+
+### _Cross site scripting_
 
 ### Oct 07: Cross-Site Scripting (XSS)
 
@@ -139,7 +153,20 @@ If you have questions about these policies, please ask us.
   - [Trusted Types](https://developers.google.com/web/updates/2019/02/trusted-types)
   - [Sanitising HTML: the DOM clobbering issue](https://fastmail.blog/2015/12/20/sanitising-html-the-dom-clobbering-issue/)
 
-### Oct 14: Fingerprinting and Privacy on the Web
+---
+
+### _Protecting users_
+
+### Oct 14: Denial-of-service, Phishing, Side Channels
+
+<!-- - [Slides](lectures/Lecture%2009.pdf) -->
+<!-- - [Video](https://www.youtube.com/watch?v=RfC_PzVmk4w) -->
+- Reading
+  - [Alice in Warningland: A Large-Scale Field Study of Browser Security](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_akhawe.pdf)
+  - [Clickjacking](http://www.sectheory.com/clickjacking.htm)
+  - [Cross-Origin JavaScript Capability Leaks: Detection, Exploitation, and Defense](https://www.adambarth.com/papers/2009/barth-weinberger-song.pdf)
+
+### Oct 19: Fingerprinting and Privacy on the Web
 
 <!-- - **Guest Lecture by Pete Snyder ([Brave Software](https://brave.com))** -->
 <!-- - [Slides](lectures/Lecture%2008.pdf) -->
@@ -152,14 +179,9 @@ If you have questions about these policies, please ask us.
   - [Protecting Browser State from Web Privacy Attacks](https://crypto.stanford.edu/safecache/sameorigin.pdf)
   - Skim: [WebKit Tracking Prevention Policy](https://webkit.org/tracking-prevention-policy/)
 
-### Oct 19: Denial-of-service, Phishing, Side Channels
+---
 
-<!-- - [Slides](lectures/Lecture%2009.pdf) -->
-<!-- - [Video](https://www.youtube.com/watch?v=RfC_PzVmk4w) -->
-- Reading
-  - [Alice in Warningland: A Large-Scale Field Study of Browser Security](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_akhawe.pdf)
-  - [Clickjacking](http://www.sectheory.com/clickjacking.htm)
-  - [Cross-Origin JavaScript Capability Leaks: Detection, Exploitation, and Defense](https://www.adambarth.com/papers/2009/barth-weinberger-song.pdf)
+### _Server-side attacks and defenses_
 
 ### Oct 21: Code Injection
 
@@ -168,12 +190,16 @@ If you have questions about these policies, please ask us.
 - Reading
   - None
 
-### Oct 26: Authentication
+### Oct 26: Server security, Safe coding practices
 
-<!-- - [Slides](lectures/Lecture%2013.pdf) -->
-<!-- - [Video](https://www.youtube.com/watch?v=lgmGSYwJc20) -->
+<!-- - [Slides](lectures/Lecture%2017.pdf) -->
+<!-- - [Video](https://www.youtube.com/watch?v=Ox15IMOvWfA) -->
 - Reading
-  - [Authentication Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
+  - [Exploiting Buffer](https://snyk.io/blog/exploiting-buffer/)
+
+---
+
+### _Network security_
 
 ### Oct 28: Transport Layer Security
 
@@ -197,7 +223,18 @@ If you have questions about these policies, please ask us.
   - [What Is HPKP For?](https://noncombatant.org/2015/11/24/what-is-hpkp-for/)
   - [Rolling out Public Key Pinning with HPKP Reporting](https://developers.google.com/web/updates/2015/09/HPKP-reporting-with-chrome-46)
 
-### Nov 09: WebAuthn - The future of user authentication on the web
+---
+
+### _User Authentication_
+
+### Nov 09: Authentication
+
+<!-- - [Slides](lectures/Lecture%2013.pdf) -->
+<!-- - [Video](https://www.youtube.com/watch?v=lgmGSYwJc20) -->
+- Reading
+  - [Authentication Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
+
+### Nov 11: WebAuthn - The future of user authentication on the web
 
 - **Guest Lecture by Lucas Garron ([GitHub](https://github.com))**
 <!-- - [Slides](lectures/Lecture%2014.pdf) -->
@@ -205,21 +242,18 @@ If you have questions about these policies, please ask us.
 - Reading
   - [Guide to Web Authentication](https://webauthn.guide/)
 
-### Nov 11: Managing security concerns in a large Open Source project
+---
 
-- **Guest Lecture by Myles Borins ([Node.js](https://nodejs.org/en/) technical steering committee, [Google](https://www.google.com/))**
+### _Web security in the real world_
+
+### Nov 16: Managing security concerns in a large Open Source project
+
+<!-- - **Guest Lecture by Myles Borins ([Node.js](https://nodejs.org/en/) technical steering committee, [Google](https://www.google.com/))** -->
 <!-- - [Slides](https://kni.sh/oss-security) -->
 <!-- - [Video](https://www.youtube.com/watch?v=lX6KLL0sVTU) -->
 - Reading
   - [Fantastic Timers and Where to Find Them: High-Resolution Microarchitectural Attacks in JavaScript](https://gruss.cc/files/fantastictimers.pdf)
   - [A Roadmap for Node.js Security](https://nodesecroadmap.fyi)
-
-### Nov 16: Server security, Safe coding practices
-
-<!-- - [Slides](lectures/Lecture%2017.pdf) -->
-<!-- - [Video](https://www.youtube.com/watch?v=Ox15IMOvWfA) -->
-- Reading
-  - [Exploiting Buffer](https://snyk.io/blog/exploiting-buffer/)
 
 ### Nov 18: Local HTTP server security
 
