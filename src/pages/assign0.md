@@ -1,17 +1,17 @@
 ## Assignment 0 – Web Programming Adventure ✈️
 
 - **Points:** 60
-- **Due:** Friday, October 4 at 5:00pm
+- **Due:** Wednesay, September 29 at 5:00pm
 
 Welcome to the first assignment for [CS 253: Web Security](https://cs253.stanford.edu). ✨
 
-For this assignment, you're going to be completing several command-line workshops to ensure you're up-to-speed on the basics of HTML, JavaScript, and Node.js. The HTML and JavaScript material should be review from [CS 142](https://cs142.stanford.edu), while the Node.js material may be a more bit challenging.
+For this assignment, you're going to be completing several command-line workshops to ensure you're up-to-speed on the basics of HTML, JavaScript, and Node.js. The HTML and JavaScript material should be review from [CS 142](https://cs142.stanford.edu), while the Node.js material may be a bit more challenging.
 
 ## Prepare
 
 ### Install Node.js and `npm`
 
-Install [Node.js](https://nodejs.org/en/), a popular JavaScript runtime. Choose Node.js 12.
+Install [Node.js](https://nodejs.org/en/), a popular JavaScript runtime. Choose Node.js 16.
 
 Node.js is a program that you install on your computer. With Node.js you can use the very popular programming language JavaScript to write software. JavaScript is usually used in a browser like Chrome or Firefox but with Node.js it is possible to do a lot more. Combined with other tools, Node.js allows you to write Desktop applications like Word or iTunes, Server applications like Apache, Network applications like Curl or even mobile applications for the iPhone or Android.
 
