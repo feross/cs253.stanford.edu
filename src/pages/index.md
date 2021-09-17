@@ -189,7 +189,7 @@ If you have questions about these policies, please ask us.
 
 ### Oct 28: Transport Layer Security
 
-- **Guest Lecture by Dan Boneh ([Stanford](https://stanford.edu))**
+- **Guest Lecture by [Dan Boneh](https://crypto.stanford.edu/~dabo/) ([Stanford](https://stanford.edu))**
 <!-- - [Slides](lectures/Lecture%2011.pdf) -->
 <!-- - [Video](https://www.youtube.com/watch?v=S8-rnPHjyxs) -->
 - Reading
@@ -222,7 +222,7 @@ If you have questions about these policies, please ask us.
 
 ### Nov 11: WebAuthn - The future of user authentication on the web
 
-- **Guest Lecture by Lucas Garron ([GitHub](https://github.com))**
+- **Guest Lecture by [Lucas Garron](https://garron.net/) ([GitHub](https://github.com))**
 <!-- - [Slides](lectures/Lecture%2014.pdf) -->
 <!-- - [Video](https://www.youtube.com/watch?v=_nPk2HgNpjE) -->
 - Reading
@@ -232,19 +232,18 @@ If you have questions about these policies, please ask us.
 
 ## _Part 5: Web security in the real world_
 
-### Nov 16: Managing security concerns in a large Open Source project
-
-<!-- - **Guest Lecture by Myles Borins ([Node.js](https://nodejs.org/en/) technical steering committee, [Google](https://www.google.com/))** -->
-<!-- - [Slides](https://kni.sh/oss-security) -->
-<!-- - [Video](https://www.youtube.com/watch?v=lX6KLL0sVTU) -->
-- Reading
-  - [Fantastic Timers and Where to Find Them: High-Resolution Microarchitectural Attacks in JavaScript](https://gruss.cc/files/fantastictimers.pdf)
-  - [A Roadmap for Node.js Security](https://nodesecroadmap.fyi)
-
-### Nov 18: Local HTTP server security
+### Nov 16: Local HTTP server security
 
 <!-- - [Slides](lectures/Lecture%2018.pdf) -->
 <!-- - [Video](https://www.youtube.com/watch?v=wLgcb4jZwGM) -->
+- Reading
+  - None
+
+### Nov 18: Managing security concerns in a large Open Source project
+
+- **Guest Lecture by [Yan Zhu](https://blog.azuki.vip/) ([Brave](https://brave.com))**
+<!-- - [Slides](https://kni.sh/oss-security) -->
+<!-- - [Video](https://www.youtube.com/watch?v=lX6KLL0sVTU) -->
 - Reading
   - None
 
