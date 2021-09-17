@@ -29,7 +29,7 @@ Confirm that it was installed:
 npm --version
 ```
 
-If you have trouble getting Node.js installed, please come to office hours or [post in Piazza](https://piazza.com/stanford/fall2019/cs253).
+If you have trouble getting Node.js installed, please come to office hours or [post in Ed](https://edstem.org/us/courses/14325/discussion/).
 
 ### Get the starter code
 
@@ -165,7 +165,7 @@ You'll see the menu:
 
 Complete all the exercises. There are 13 in total.
 
-Unlike Part 1 and Part 2, this part is likely to contain new material that you might not be familiar with. It is expected that you'll read the [Node.js documentation](https://nodejs.org/api/index.html), do web searches, and come to office hours if you're stuck. In the real world, programmers often have to learn topics quickly in a just-in-time manner to solve problems they encounter. This is good practice! If you get stuck, come to office hours or [post in Piazza](https://piazza.com/stanford/fall2019/cs253).
+Unlike Part 1 and Part 2, this part is likely to contain new material that you might not be familiar with. It is expected that you'll read the [Node.js documentation](https://nodejs.org/api/index.html), do web searches, and come to office hours if you're stuck. In the real world, programmers often have to learn topics quickly in a just-in-time manner to solve problems they encounter. This is good practice! If you get stuck, come to office hours or [post in Ed](https://edstem.org/us/courses/14325/discussion/).
 
 It's easiest if you switch into the `src/learnyounode` folder and do your work in there. Here's an example:
 
@@ -212,4 +212,4 @@ You should submit early and often! There's no downside to repeatedly submitting 
 
 ## Questions?
 
-Come to office hours or [post in Piazza](https://piazza.com/stanford/fall2019/cs253).
+Come to office hours or [post in Ed](https://edstem.org/us/courses/14325/discussion/).

@@ -87,4 +87,4 @@ You should submit early and often! There's no downside to repeatedly submitting 
 
 ## Questions?
 
-Come to office hours or [post in Piazza](https://piazza.com/stanford/fall2019/cs253).
+Come to office hours or [post in Ed](https://edstem.org/us/courses/14325/discussion/).

@@ -31,7 +31,7 @@ Tuesdays and Thursdays, 1:30 PM - 2:50 PM in classroom [320-105](http://campus-m
 
 ### Communication
 
-We will primarily use [TODO](#TODO) for sending out course announcements and answering questions. Please make sure to [sign up](#TODO).
+We will primarily use [Ed](https://edstem.org/us/courses/14325/discussion/) for sending out course announcements and answering questions.
 
 We use [Gradescope](https://gradescope.com) for assignment submissions. Enroll with the code `ZR5E5Z`.
 
