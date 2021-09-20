@@ -23,8 +23,8 @@ Tuesdays and Thursdays, 1:30 PM - 2:50 PM in classroom [320-105](http://campus-m
 
 ### Office Hours
 
-- Feross: Thursday 4-6pm, Gates 323
-- Anna: TODO
+- Feross: Thursday 4-6pm, Location TBD
+- Anna: Tuesday, Thursday 11:15am-1:15pm, Location TBD
 - Timothy: TODO
 
 ## Course Policies
