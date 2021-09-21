@@ -19,13 +19,13 @@ Tuesdays and Thursdays, 1:30 PM - 2:50 PM in classroom [320-105](http://campus-m
 ### Teaching Assistants
 
 - Anna Zeng ([aszeng@stanford.edu](mailto:aszeng@stanford.edu))
-- Timothy Gu ([tigu@stanford.edu](mailto:tigu@stanford.edu))
+- Timothy Gu ([timothygu@stanford.edu](mailto:timothygu@stanford.edu))
 
 ### Office Hours
 
 - Feross: Thursday 4-6pm, Location TBD
 - Anna: Tuesday, Thursday 11:15am-1:15pm, Location TBD
-- Timothy: TODO
+- Timothy: Wednesday 1:30-3:30pm, Location TBD
 
 ## Course Policies
 
