@@ -12,6 +12,8 @@ Tuesdays and Thursdays, 1:30 PM - 2:50 PM in classroom [320-105](http://campus-m
 
 ## Course Staff
 
+To email the staff, use: [cs253-aut2122-staff@lists.stanford.edu](mailto:cs253-aut2122-staff@lists.stanford.edu).
+
 ### Instructor
 
 - Feross Aboukhadijeh ([feross@cs.stanford.edu](mailto:feross@cs.stanford.edu))
