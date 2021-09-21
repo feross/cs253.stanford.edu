@@ -162,7 +162,7 @@ If you have questions about these policies, please ask us.
 <!-- - [Slides](lectures/Lecture%2008.pdf) -->
 <!-- - [Video](https://www.youtube.com/watch?v=OVh0oHbmla0) -->
 - Reading
-  - [Online tracking: A 1-million-site measurement and analysis](https://chromium.woolyss.com/f/OpenWPM-1-million-site-tracking-measurement.pdf)
+  - [Online tracking: A 1-million-site measurement and analysis](https://www.cs.princeton.edu/~arvindn/publications/OpenWPM_1_million_site_tracking_measurement.pdf)
   - [Most websites don't need to vibrate: A cost-benefit approach to improving browser security](https://arxiv.org/pdf/1708.08510)
   - [Browser Fingerprinting: An Introduction and the Challenges Ahead](https://blog.torproject.org/browser-fingerprinting-introduction-and-challenges-ahead)
   - [WebKit Ad Click Attribution](https://webkit.org/blog/8943/privacy-preserving-ad-click-attribution-for-the-web/)
