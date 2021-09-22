@@ -86,7 +86,7 @@ If you have questions about these policies, please ask us.
 
 ### Sep 21: What is Web Security? HTML & JavaScript Review
 
-<!-- - [Slides](lectures/Lecture%2001.pdf) -->
+- [Slides](lectures/Lecture%2001.pdf)
 <!-- - [Video](https://www.youtube.com/watch?v=5JJrJGZ_LjM) -->
 - Reading
   - [Inside look at modern web browser (part 1)](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
@@ -160,7 +160,7 @@ If you have questions about these policies, please ask us.
 
 ### Oct 19: Fingerprinting and Privacy on the Web
 
-<!-- - **Guest Lecture by Pete Snyder ([Brave Software](https://brave.com))** -->
+- **Guest Lecture by Pete Snyder ([Brave Software](https://brave.com))**
 <!-- - [Slides](lectures/Lecture%2008.pdf) -->
 <!-- - [Video](https://www.youtube.com/watch?v=OVh0oHbmla0) -->
 - Reading
