@@ -1,7 +1,7 @@
 ## Assignment 0 – Web Programming Adventure ✈️
 
 - **Points:** 60
-- **Due:** Wednesay, September 29 at 5:00pm
+- **Due:** Wednesday, September 29 at 5:00pm
 
 Welcome to the first assignment for [CS 253: Web Security](https://cs253.stanford.edu). ✨
 
