@@ -103,6 +103,10 @@ If you have questions about these policies, please ask us.
   - [HTTP Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
   - Skim: [HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
 
+---
+
+## _Part 2: Client-side attacks and defenses_
+
 ### Sep 28: Session Attacks
 
 <!-- - [Slides](lectures/Lecture%2003.pdf) -->
@@ -111,10 +115,6 @@ If you have questions about these policies, please ask us.
   - [SameSite Cookies Explained](https://web.dev/samesite-cookies-explained/)
   - [Incrementally Better Cookies](https://tools.ietf.org/html/draft-west-cookie-incrementalism-00#section-4.1)
   - [CSRF Is Dead](https://scotthelme.co.uk/csrf-is-dead/)
-
----
-
-## _Part 2: Client-side attacks and defenses_
 
 ### Sep 30: Cross-Site Request Forgery, Same Origin Policy
 
