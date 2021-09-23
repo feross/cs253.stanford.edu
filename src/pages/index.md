@@ -84,7 +84,7 @@ If you have questions about these policies, please ask us.
 
 ## _Part 1: Basics_
 
-### Sep 21: What is Web Security? HTML & JavaScript Review
+### Sep 21: What is Web Security?
 
 - [Slides](lectures/Lecture%2001.pdf)
 <!-- - [Video](https://www.youtube.com/watch?v=5JJrJGZ_LjM) -->
@@ -94,9 +94,9 @@ If you have questions about these policies, please ask us.
   - [Inside look at modern web browser (part 3)](https://developers.google.com/web/updates/2018/09/inside-browser-part3)
   - [A Re-Introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
-### Sep 23: HTTP, Cookies, Sessions
+### Sep 23: DNS, HTTP, Cookies, and Sessions
 
-<!-- - [Slides](lectures/Lecture%2002.pdf) -->
+- [Slides](lectures/Lecture%2002.pdf)
 <!-- - [Video](https://www.youtube.com/watch?v=zhnQFQ2qFtA) -->
 - Reading
   - [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
