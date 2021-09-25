@@ -22,12 +22,14 @@ To email the staff, use: [cs253-aut2122-staff@lists.stanford.edu](mailto:cs253-a
 
 - Anna Zeng ([aszeng@stanford.edu](mailto:aszeng@stanford.edu))
 - Timothy Gu ([timothygu@stanford.edu](mailto:timothygu@stanford.edu))
+- David Estrada-Arias ([dae783@stanford.edu](mailto:dae783@stanford.edu))
 
 ### Office Hours
 
-- Feross: Thursday 4-6pm, Location TBD
+- Feross: Thursday 3:30-5:30pm, Huang 020
 - Anna: Tuesday, Thursday 11:15am-1:15pm, Location TBD
-- Timothy: Wednesday 1:30-3:30pm, Location TBD
+- Timothy: Wednesday 1:30-3:30pm, Huang 020
+- David: Monday 2-4pm, Thursday 10-12pm, Location TBD
 
 ## Course Policies
 
