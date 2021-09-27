@@ -27,9 +27,9 @@ To email the staff, use: [cs253-aut2122-staff@lists.stanford.edu](mailto:cs253-a
 ### Office Hours
 
 - Feross: Thursday 3:30-5:30pm, Huang 020
-- Anna: Tuesday, Thursday 11:15am-1:15pm, Location TBD
+- Anna: Tuesday 3:15-5:15pm, Thursday 9:30-11:30am, Huang 019
 - Timothy: Wednesday 1:30-3:30pm, Huang 019
-- David: Monday 2-4pm, Thursday 10-12pm, Location TBD
+- David: Monday 2-4pm, Thursday 10-12pm, Huang 020
 
 ## Course Policies
 
