@@ -102,7 +102,6 @@ If you have questions about these policies, please ask us.
 <!-- - [Video](https://www.youtube.com/watch?v=zhnQFQ2qFtA) -->
 - Reading
   - [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
-  - [HTTP Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
   - Skim: [HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
 
 ### Sep 28: Same Origin Policy
@@ -110,9 +109,7 @@ If you have questions about these policies, please ask us.
 - [Slides](lectures/Lecture%2003.pdf)
 <!-- - [Video](https://www.youtube.com/watch?v=QuhgjXKzfI8) -->
 - Reading
-  - [SameSite Cookies Explained](https://web.dev/samesite-cookies-explained/)
-  - [Incrementally Better Cookies](https://tools.ietf.org/html/draft-west-cookie-incrementalism-00#section-4.1)
-  - [CSRF Is Dead](https://scotthelme.co.uk/csrf-is-dead/)
+  - [Same Origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
 
 ---
 
@@ -123,7 +120,10 @@ If you have questions about these policies, please ask us.
 - [Slides](lectures/Lecture%2004-partial.pdf)
 <!-- - [Video](https://www.youtube.com/watch?v=0-q69vAYSwo) -->
 - Reading
-  - [Same Origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
+  - [HTTP Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
+  - [SameSite Cookies Explained](https://web.dev/samesite-cookies-explained/)
+  - [Incrementally Better Cookies](https://tools.ietf.org/html/draft-west-cookie-incrementalism-00#section-4.1)
+  - [CSRF Is Dead](https://scotthelme.co.uk/csrf-is-dead/)
   - [Cross-Site Request Forgery Prevention](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
 
 ### Oct 05: Same Origin Policy Exceptions, Cross-Site Script Inclusion
