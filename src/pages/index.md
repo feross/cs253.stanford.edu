@@ -204,7 +204,7 @@ If you have questions about these policies, please ask us.
 
 ### Nov 04: HTTPS in the Real World
 
-<!-- - **Guest Lecture by Emily Stark & Chris Palmer ([Google Chrome](https://www.google.com/chrome/))** -->
+- **Guest Lecture by Joe DeBlasio ([Google Chrome](https://www.google.com/chrome/))**
 <!-- - [Slides](lectures/Lecture%2012.pdf) -->
 <!-- - [Video](https://www.youtube.com/watch?v=jN26N8QS5Os) -->
 - Reading
