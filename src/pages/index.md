@@ -102,6 +102,7 @@ If you have questions about these policies, please ask us.
 <!-- - [Video](https://www.youtube.com/watch?v=zhnQFQ2qFtA) -->
 - Reading
   - [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+  - [A typical HTTP session](https://developer.mozilla.org/en-US/docs/Web/HTTP/Session)
   - Skim: [HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
 
 ### Sep 28: Same Origin Policy
@@ -115,24 +116,24 @@ If you have questions about these policies, please ask us.
 
 ## _Part 2: Client-side attacks and defenses_
 
-### Sep 30: Cookies, Sessions, Cross-Site Request Forgery
+### Sep 30: Cookies and Sessions
 
-- [Slides](lectures/Lecture%2004-partial.pdf)
+- [Slides](lectures/Lecture%2004.pdf)
 <!-- - [Video](https://www.youtube.com/watch?v=0-q69vAYSwo) -->
 - Reading
   - [HTTP Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
+
+### Oct 05: Session attacks, Cross-Site Request Forgery
+
+<!-- - [Slides](lectures/Lecture%2005.pdf) -->
+<!-- - [Video](https://www.youtube.com/watch?v=ud9cVQDte3A) -->
+- Reading
   - [SameSite Cookies Explained](https://web.dev/samesite-cookies-explained/)
   - [Incrementally Better Cookies](https://tools.ietf.org/html/draft-west-cookie-incrementalism-00#section-4.1)
   - [CSRF Is Dead](https://scotthelme.co.uk/csrf-is-dead/)
   - [Cross-Site Request Forgery Prevention](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
 
-### Oct 05: Same Origin Policy Exceptions, Cross-Site Script Inclusion
-
-<!-- - [Slides](lectures/Lecture%2005.pdf) -->
-<!-- - [Video](https://www.youtube.com/watch?v=ud9cVQDte3A) -->
-- Reading
-  - None
-
+<!-- Same Origin Policy Exceptions, Cross-Site Script Inclusion -->
 ### Oct 07: Cross-Site Scripting (XSS)
 
 <!-- - [Slides](lectures/Lecture%2006.pdf) -->
