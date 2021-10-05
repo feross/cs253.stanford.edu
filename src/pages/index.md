@@ -69,7 +69,7 @@ Each assignment is worth 15%. There is no midterm.
 
 ### Collaboration Policy
 
-You may discuss the assignments with other students but do not share code or attack inputs. When designing an attack, there's usually an amazing aha moment when you finally figure out the "trick"; if someone tells you the solution before you've figured it out yourself you'll be robbed of the best part of this course. If discuss an assignment with another student, you must list the name of your collaborators in the submission. Each student must write up their solutions independently.
+You may discuss the assignments with other students but do not share code or attack inputs. When designing an attack, there's usually an amazing aha moment when you finally figure out the "trick"; if someone tells you the solution before you've figured it out yourself you'll be robbed of the best part of this course. If you discuss an assignment with another student, you must list their name in the submission. Each student must write up their solutions independently.
 
 ### Late Submissions
 
@@ -125,7 +125,7 @@ If you have questions about these policies, please ask us.
 
 ### Oct 05: Session attacks, Cross-Site Request Forgery
 
-<!-- - [Slides](lectures/Lecture%2005.pdf) -->
+- [Slides](lectures/Lecture%2005.pdf)
 <!-- - [Video](https://www.youtube.com/watch?v=ud9cVQDte3A) -->
 - Reading
   - [SameSite Cookies Explained](https://web.dev/samesite-cookies-explained/)
