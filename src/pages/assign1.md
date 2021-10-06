@@ -19,7 +19,7 @@ The assignment takes the form of an interactive workshop that you'll run in your
 
 ### Check your Node.js version
 
-You should already have Node.js installed from the last assignment. For this assignment, it's highly recommended to use Node.js 12. Open your terminal and run this command to confirm you're running some version 12.x.x:
+You should already have Node.js installed from the last assignment. For this assignment, it's highly recommended to use Node.js 16. Open your terminal and run this command to confirm you're running some version 16.x.x:
 
 ```sh
 node --version

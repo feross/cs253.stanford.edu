@@ -279,8 +279,7 @@ If you have questions about these policies, please ask us.
 - Assigned: Tuesday, September 21
 - Due: Wednesday, September 29 at 5:00pm
 
-### Assignment 1
-<!-- ### [Assignment 1 – Journey to the Dark Side 🌘](assign1) -->
+### [Assignment 1 – Journey to the Dark Side 🌘](assign1)
 
 - Assigned: Tuesday, October 5
 - Due: Friday, October 15 at 5:00pm
