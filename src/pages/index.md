@@ -136,7 +136,7 @@ If you have questions about these policies, please ask us.
 <!-- Same Origin Policy Exceptions, Cross-Site Script Inclusion -->
 ### Oct 07: Cross-Site Scripting (XSS)
 
-<!-- - [Slides](lectures/Lecture%2006.pdf) -->
+- [Slides](lectures/Lecture%2006.pdf)
 <!-- - [Video](https://www.youtube.com/watch?v=XTcqlOFhpPI) -->
 - Reading
   - [Cross Site Scripting Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
