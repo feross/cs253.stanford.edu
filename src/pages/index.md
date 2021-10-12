@@ -144,7 +144,7 @@ If you have questions about these policies, please ask us.
 
 ### Oct 12: Cross-Site Scripting Defenses
 
-<!-- - [Slides](lectures/Lecture%2007.pdf) -->
+- [Slides](lectures/Lecture%2007.pdf)
 <!-- - [Video](https://www.youtube.com/watch?v=PlXzrtheQGc) -->
 - Reading
   - [Reining in the Web with Content Security Policy](http://research.sidstamm.com/papers/csp-www2010.pdf)
