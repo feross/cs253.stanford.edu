@@ -133,7 +133,6 @@ If you have questions about these policies, please ask us.
   - [CSRF Is Dead](https://scotthelme.co.uk/csrf-is-dead/)
   - [Cross-Site Request Forgery Prevention](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
 
-<!-- Same Origin Policy Exceptions, Cross-Site Script Inclusion -->
 ### Oct 07: Cross-Site Scripting (XSS)
 
 - [Slides](lectures/Lecture%2006.pdf)
@@ -152,9 +151,11 @@ If you have questions about these policies, please ask us.
   - [Trusted Types](https://developers.google.com/web/updates/2019/02/trusted-types)
   - [Sanitising HTML: the DOM clobbering issue](https://fastmail.blog/2015/12/20/sanitising-html-the-dom-clobbering-issue/)
 
-### Oct 14: Denial-of-service, Phishing, Side Channels
+<!-- Same Origin Policy Exceptions, Cross-Site Script Inclusion -->
+<!-- Side Channels -->
+### Oct 14: Denial-of-service, Phishing
 
-<!-- - [Slides](lectures/Lecture%2009.pdf) -->
+- [Slides](lectures/Lecture%2008.pdf)
 <!-- - [Video](https://www.youtube.com/watch?v=RfC_PzVmk4w) -->
 - Reading
   - [Alice in Warningland: A Large-Scale Field Study of Browser Security](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_akhawe.pdf)
@@ -164,7 +165,7 @@ If you have questions about these policies, please ask us.
 ### Oct 19: Fingerprinting and Privacy on the Web
 
 - **Guest Lecture by Pete Snyder ([Brave Software](https://brave.com))**
-<!-- - [Slides](lectures/Lecture%2008.pdf) -->
+<!-- - [Slides](lectures/Lecture%2009.pdf) -->
 <!-- - [Video](https://www.youtube.com/watch?v=OVh0oHbmla0) -->
 - Reading
   - [Online tracking: A 1-million-site measurement and analysis](https://www.cs.princeton.edu/~arvindn/publications/OpenWPM_1_million_site_tracking_measurement.pdf)
