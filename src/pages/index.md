@@ -164,7 +164,7 @@ If you have questions about these policies, please ask us.
 
 ### Oct 19: Fingerprinting and Privacy on the Web
 
-- **Guest Lecture by Pete Snyder ([Brave Software](https://brave.com))**
+- **Guest Lecture by Pete Snyder ([Brave](https://brave.com))**
 <!-- - [Slides](lectures/Lecture%2009.pdf) -->
 <!-- - [Video](https://www.youtube.com/watch?v=OVh0oHbmla0) -->
 - Reading
@@ -251,7 +251,12 @@ If you have questions about these policies, please ask us.
 <!-- - [Slides](https://kni.sh/oss-security) -->
 <!-- - [Video](https://www.youtube.com/watch?v=lX6KLL0sVTU) -->
 - Reading
-  - None
+  - [The Security Architecture of the Chromium Browser](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
+  - [Cross-Origin Read Blocking (CORB) primer](https://www.chromium.org/Home/chromium-security/corb-for-developers)
+  - Skim: [Cross-Origin Read Blocking (CORB) explainer](https://chromium.googlesource.com/chromium/src/+/master/services/network/cross_origin_read_blocking_explainer.md)
+  - [Backdooring Your JavaScript Using Minifier Bugs](https://diracdeltas.github.io/blog/backdooring-js/)
+  - [I’m harvesting credit card numbers and passwords from your site. Here’s how.](https://medium.com/hackernoon/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
+  - [Major sites running unauthenticated JavaScript on their payment pages](https://shkspr.mobi/blog/2018/11/major-sites-running-unauthenticated-javascript-on-their-payment-pages/)
 
 ### Nov 30: DNS rebinding attacks
 
@@ -266,12 +271,7 @@ If you have questions about these policies, please ask us.
 <!-- - [Slides](lectures/Lecture%2020.pdf) -->
 <!-- - [Video](https://www.youtube.com/watch?v=5aguccOpGes) -->
 - Reading
-  - [The Security Architecture of the Chromium Browser](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
-  - [Cross-Origin Read Blocking (CORB) primer](https://www.chromium.org/Home/chromium-security/corb-for-developers)
-  - Skim: [Cross-Origin Read Blocking (CORB) explainer](https://chromium.googlesource.com/chromium/src/+/master/services/network/cross_origin_read_blocking_explainer.md)
-  - [Backdooring Your JavaScript Using Minifier Bugs](https://diracdeltas.github.io/blog/backdooring-js/)
-  - [I’m harvesting credit card numbers and passwords from your site. Here’s how.](https://medium.com/hackernoon/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
-  - [Major sites running unauthenticated JavaScript on their payment pages](https://shkspr.mobi/blog/2018/11/major-sites-running-unauthenticated-javascript-on-their-payment-pages/)
+  - None
 
 ## Assignments
 
