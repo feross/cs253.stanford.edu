@@ -162,10 +162,10 @@ If you have questions about these policies, please ask us.
   - [Clickjacking](http://www.sectheory.com/clickjacking.htm)
   - [Cross-Origin JavaScript Capability Leaks: Detection, Exploitation, and Defense](https://www.adambarth.com/papers/2009/barth-weinberger-song.pdf)
 
-### Oct 19: Fingerprinting and Privacy on the Web
+### Oct 19: Online Tracking, What Can Be Done About it, and Who’s Doing it
 
 - **Guest Lecture by Pete Snyder ([Brave](https://brave.com))**
-<!-- - [Slides](lectures/Lecture%2009.pdf) -->
+- [Slides](lectures/Lecture%2009%20-%20Online%20Tracking,%20What%20Can%20Be%20Done%20About%20it,%20and%20Who’s%20Doing%20it.pdf)
 <!-- - [Video](https://www.youtube.com/watch?v=OVh0oHbmla0) -->
 - Reading
   - [Online tracking: A 1-million-site measurement and analysis](https://www.cs.princeton.edu/~arvindn/publications/OpenWPM_1_million_site_tracking_measurement.pdf)
