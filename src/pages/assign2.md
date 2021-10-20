@@ -1,6 +1,6 @@
 ## Assignment 2 – Oh What a Tangled Web We Weave 🕸
 
-- **Points:** 63
+- **Points:** 75
 - **Due:** Friday, October 29 at 5:00pm
 
 Welcome to Assignment 2 for [CS 253: Web Security](https://cs253.stanford.edu). ✨
@@ -35,13 +35,13 @@ Your answers should be concise. Unless otherwise specified, keep answers to 100 
 
 4. Name three ways that the Same Origin Policy protects a website.
 
-5. Can JavaScript code running on **attacker.com** cause a GET request to be sent to **victim.com**? (Yes/No)
+5. Can JavaScript code running on **attacker.com** cause a GET request to be sent to a URL on **victim.com**? (Yes/No)
 
 6. Can JavaScript code running on **attacker.com** use the `fetch()` API to send a GET request to **victim.com** and read the HTTP response body? (Yes/No)
 
   Assume no CORS headers are present on the response.
 
-7. Can JavaScript code running on **attacker.com** submit a form via a POST request to **victim.com**? (Yes/No)
+7. Can JavaScript code running on **attacker.com** submit a form that sends a POST request to **victim.com**? (Yes/No)
 
 8. A fascinating Same origin policy "bypass" was described in ["Cross-Origin JavaScript Capability Leaks: Detection, Exploitation, and Defense"](https://www.usenix.org/conference/usenixsecurity09/technical-sessions/presentation/cross-origin-javascript-capability-leaks), a talk at USENIX '09 (one of the top security conferences). How could an attacker use this browser implementation bug to bypass the same origin policy? What was the key, underlying reason for the bug? What was the proposed mitigation? Please keep your answer to 200 words or fewer.
 
@@ -200,7 +200,19 @@ You may find these resources useful:
 
 20. Read the paper ["CSP Is Dead, Long Live CSP! On the Insecurity of Whitelists and the Future of Content Security Policy"](https://ai.google/research/pubs/pub45542). Explain the problem that `'strict-dynamic'` keyword solves.
 
-21. Survey Questions
+### Session Attacks
+
+21. How does adding the `SameSite=Lax` cookie attribute protect a website against CSRF attacks? Give a concrete example of an attack scenario that it prevents.
+
+22. Why is it important to not only delete the user's session cookie when they log out, but to also delete the session on the server side (i.e. delete it from the database)? Specifically, what could an attacker do if a server didn't delete the session on the server side after logout?
+
+### Fingerprinting
+
+23. Explain how a tracker could use third-party cookies and an image request to a `pixel.gif` image to identify a user on two separate domains.
+
+24. Explain how "partitioning" or "double-keying" the browser storage (such as cookies and `localStorage`) helps to prevent web tracking. What tracker behavior does it prevent? How does double-keying prevent this behavior?
+
+25. Survey Questions
 
 - Roughly how long did you spend on this assignment? (required)
 - What was your favorite part of this assignment? (required)

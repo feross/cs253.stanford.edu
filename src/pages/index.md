@@ -285,8 +285,7 @@ If you have questions about these policies, please ask us.
 - Assigned: Tuesday, October 5
 - Due: Friday, October 15 at 5:00pm
 
-### Assignment 2
-<!-- ### [Assignment 2 – Oh What a Tangled Web We Weave 🕸](assign2) -->
+### [Assignment 2 – Oh What a Tangled Web We Weave 🕸](assign2)
 
 - Assigned: Tuesday, October 19
 - Due: Friday, October 29 at 5:00pm
