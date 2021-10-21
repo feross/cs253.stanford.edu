@@ -161,6 +161,7 @@ If you have questions about these policies, please ask us.
   - [Alice in Warningland: A Large-Scale Field Study of Browser Security](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_akhawe.pdf)
   - [Clickjacking](http://www.sectheory.com/clickjacking.htm)
   - [Cross-Origin JavaScript Capability Leaks: Detection, Exploitation, and Defense](https://www.adambarth.com/papers/2009/barth-weinberger-song.pdf)
+  - [XS-Leaks](https://xsleaks.dev)
 
 ### Oct 19: Online Tracking, What Can Be Done About it, and Who’s Doing it
 
@@ -181,10 +182,12 @@ If you have questions about these policies, please ask us.
 
 ### Oct 21: Code Injection
 
-<!-- - [Slides](lectures/Lecture%2010.pdf) -->
+- [Slides](lectures/Lecture%2010.pdf)
 <!-- - [Video](https://www.youtube.com/watch?v=mR7yvqWmE0M) -->
 - Reading
-  - None
+  - [Command injection](https://owasp.org/www-community/attacks/Command_Injection#:~:text=Command%20injection%20is%20an%20attack,system%20via%20a%20vulnerable%20application.&text=In%20this%20attack%2C%20the%20attacker,privileges%20of%20the%20vulnerable%20application.)
+  - [SQL injection](https://owasp.org/www-community/attacks/SQL_Injection)
+
 
 ### Oct 26: Server security, Safe coding practices
 
