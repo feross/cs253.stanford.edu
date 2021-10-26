@@ -188,10 +188,9 @@ If you have questions about these policies, please ask us.
   - [Command injection](https://owasp.org/www-community/attacks/Command_Injection#:~:text=Command%20injection%20is%20an%20attack,system%20via%20a%20vulnerable%20application.&text=In%20this%20attack%2C%20the%20attacker,privileges%20of%20the%20vulnerable%20application.)
   - [SQL injection](https://owasp.org/www-community/attacks/SQL_Injection)
 
-
 ### Oct 26: Server security, Safe coding practices
 
-<!-- - [Slides](lectures/Lecture%2017.pdf) -->
+- [Slides](lectures/Lecture%2011.pdf)
 <!-- - [Video](https://www.youtube.com/watch?v=Ox15IMOvWfA) -->
 - Reading
   - [Exploiting Buffer](https://snyk.io/blog/exploiting-buffer/)
@@ -218,10 +217,6 @@ If you have questions about these policies, please ask us.
   - [What Is HPKP For?](https://noncombatant.org/2015/11/24/what-is-hpkp-for/)
   - [Rolling out Public Key Pinning with HPKP Reporting](https://developers.google.com/web/updates/2015/09/HPKP-reporting-with-chrome-46)
 
----
-
-## _Part 4: User Authentication_
-
 ### Nov 09: Authentication
 
 <!-- - [Slides](lectures/Lecture%2013.pdf) -->
@@ -239,7 +234,7 @@ If you have questions about these policies, please ask us.
 
 ---
 
-## _Part 5: Web security in the real world_
+## _Part 4: Web security in the real world_
 
 ### Nov 16: Local HTTP server security
 
