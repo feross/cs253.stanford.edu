@@ -288,7 +288,7 @@ If you have questions about these policies, please ask us.
 - Assigned: Tuesday, October 19
 - Due: Friday, October 29 at 5:00pm
 
-### Assignment 3
+### [Assignment 3 – Somebody's Always Watching 👁️](assign3)
 
 - Assigned: Tuesday, November 2
 - Due: Friday, November 12 at 5:00pm
