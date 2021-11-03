@@ -69,11 +69,12 @@ If you choose, you may also extend the server-side code to provide information o
 
 We will grade your fingerprinting technique under the following situations, and will award points if the corresponding criteria for the return value of `fingerprint.js` are met.
 
-* Returns the same identifier (in the latest stable version of Google Chrome) when opening the provided HTML page, closing the tab, opening a new tab, and browsing to the page again. (14 points)
-* Returns a different identifier when browsing to the page from a different browser (choose from: Mozilla Firefox, Safari, or Brave), as a proxy for different users. (11 points)
+* Returns the same identifier (in the latest stable version of Google Chrome) when opening the provided HTML page, closing the tab, opening a new tab, and browsing to the page again. (7 points)
+* Returns a different identifier when browsing to the page from a different browser (choose from: Mozilla Firefox, Safari, or Brave), as a proxy for different users. (7 points)
 * Returns the same identifier (in Google Chrome) even after clearing browser data (e.g. cookies, cache, localStorage, etc.) in Google Chrome's settings. (7 points)
-* Returns the same identifier even after clearing browser data in one additional browser (choose from: Mozilla Firefox, Safari, or Brave). (2 points)
-* Fingerprinting works in incognito/private browser mode. (2 points)
+* Returns the same identifier even after clearing browser data in one additional browser (choose from: Mozilla Firefox, Safari, or Brave). (5 points)
+* Returns a different identifier when browsing to the page from Chrome on your device vs. Chrome on another device. In other words, your fingerprinting technique does not merely identify which type of browser (e.g. Chrome vs. Firefox) the user is using. (7 points)
+* Returns the same identifier across incognito/private browser mode sessions. (3 points)
 
 ## Part 2: Short Answer Questions (24 points, 6 per question)
 
