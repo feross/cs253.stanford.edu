@@ -195,10 +195,10 @@ If you have questions about these policies, please ask us.
 - Reading
   - [Exploiting Buffer](https://snyk.io/blog/exploiting-buffer/)
 
-### Oct 28: Transport Layer Security
+### Oct 28: HTTPS and the Lock Icon
 
 - **Guest Lecture by [Dan Boneh](https://crypto.stanford.edu/~dabo/) ([Stanford](https://stanford.edu))**
-<!-- - [Slides](lectures/Lecture%2011.pdf) -->
+- [Slides](lectures/Lecture%2012%20-%20HTTPS%20and%20the%20Lock%20Icon.pdf)
 <!-- - [Video](https://www.youtube.com/watch?v=S8-rnPHjyxs) -->
 - Reading
   - [Looking back at the Snowden revelations](https://blog.cryptographyengineering.com/2019/09/24/looking-back-at-the-snowden-revelations/)
