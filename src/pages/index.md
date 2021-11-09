@@ -209,7 +209,7 @@ If you have questions about these policies, please ask us.
 ### Nov 04: HTTPS in the Real World
 
 - **Guest Lecture by Joe DeBlasio ([Google Chrome](https://www.google.com/chrome/))**
-<!-- - [Slides](lectures/Lecture%2012.pdf) -->
+- [Slides](lectures/Lecture%2014%20-%20HTTPS%20in%20the%20Real%20World.pdf)
 <!-- - [Video](https://www.youtube.com/watch?v=jN26N8QS5Os) -->
 - Reading
   - [DigiNotar on Wikipedia](https://en.wikipedia.org/wiki/DigiNotar)
@@ -219,7 +219,7 @@ If you have questions about these policies, please ask us.
 
 ### Nov 09: Authentication
 
-<!-- - [Slides](lectures/Lecture%2013.pdf) -->
+- [Slides](lectures/Lecture%2015.pdf)
 <!-- - [Video](https://www.youtube.com/watch?v=lgmGSYwJc20) -->
 - Reading
   - [Authentication Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
