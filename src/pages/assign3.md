@@ -1,7 +1,7 @@
 ## Assignment 3 – Somebody's Always Watching 👁️
 
 - **Points:** 63
-- **Due:** Friday, November 12 at 5:00pm
+- **Due:** Friday, November 12 at 11:59pm
 
 Welcome to Assignment 3 for [CS 253: Web Security](https://cs253.stanford.edu). ✨
 

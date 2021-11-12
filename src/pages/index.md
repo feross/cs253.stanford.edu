@@ -291,7 +291,7 @@ If you have questions about these policies, please ask us.
 ### [Assignment 3 – Somebody's Always Watching 👁️](assign3)
 
 - Assigned: Tuesday, November 2
-- Due: Friday, November 12 at 5:00pm
+- Due: Friday, November 12 at 11:59pm
 
 ### Assignment 4
 
