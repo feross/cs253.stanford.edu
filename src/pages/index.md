@@ -238,7 +238,7 @@ If you have questions about these policies, please ask us.
 
 ### Nov 16: Local HTTP server security
 
-<!-- - [Slides](lectures/Lecture%2018.pdf) -->
+- [Slides](lectures/Lecture%2017.pdf)
 <!-- - [Video](https://www.youtube.com/watch?v=wLgcb4jZwGM) -->
 - Reading
   - [Private Network Access](https://developer.chrome.com/blog/private-network-access-update/)
