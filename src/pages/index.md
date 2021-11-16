@@ -241,7 +241,7 @@ If you have questions about these policies, please ask us.
 <!-- - [Slides](lectures/Lecture%2018.pdf) -->
 <!-- - [Video](https://www.youtube.com/watch?v=wLgcb4jZwGM) -->
 - Reading
-  - None
+  - [Private Network Access](https://developer.chrome.com/blog/private-network-access-update/)
 
 ### Nov 18: Managing security concerns in a large Open Source project
 
