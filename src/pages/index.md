@@ -243,10 +243,10 @@ If you have questions about these policies, please ask us.
 - Reading
   - [Private Network Access](https://developer.chrome.com/blog/private-network-access-update/)
 
-### Nov 18: Managing security concerns in a large Open Source project
+### Nov 18: Web Security in the Real World
 
 - **Guest Lecture by [Yan Zhu](https://blog.azuki.vip/) ([Brave](https://brave.com))**
-<!-- - [Slides](https://kni.sh/oss-security) -->
+- [Slides](lectures/Lecture%2018%20-%20Real-World%20Web%20Security.pdf)
 <!-- - [Video](https://www.youtube.com/watch?v=lX6KLL0sVTU) -->
 - Reading
   - [The Security Architecture of the Chromium Browser](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
