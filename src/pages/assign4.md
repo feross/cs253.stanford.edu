@@ -70,7 +70,7 @@ Once you've come up with a solution that works, read the official solution and c
 
 ### Access the assignment
 
-To access Gruyere, go to [https://google-gruyere.appspot.com/start](https://google-gruyere.appspot.com/start).
+To access Gruyere, go to [https://google-gruyere.appspot.com/part1](https://google-gruyere.appspot.com/part1). Find the link to start a Gruyere instance for yourself.
 
 AppEngine will start a new instance of Gruyere for you, assign it a unique id and redirect you to `https://google-gruyere.appspot.com/123/` (where 123 is your unique id). Each instance of Gruyere is "sandboxed" from the other instances so your instance won't be affected by anyone else using Gruyere. You'll need to use your unique id instead of 123 in all the examples.
 
