@@ -293,10 +293,10 @@ If you have questions about these policies, please ask us.
 - Assigned: Tuesday, November 2
 - Due: Friday, November 12 at 11:59pm
 
-### Assignment 4
+### [Assignment 4 - Swiss Cheese Security 🧀](assign4)
 
-- Assigned: Tuesday, November 16
-- Due: Monday, November 29 at 5:00pm
+- Assigned: Tuesday, November 25
+- Due: Friday, December 3 at 11:59pm
 
 <br>
 <br>
