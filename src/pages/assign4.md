@@ -5,6 +5,38 @@
 
 Welcome to Assignment 4 for [CS 253: Web Security](https://cs253.stanford.edu). ✨
 
+## Prepare
+
+### Check your Node.js version
+
+You should already have Node.js installed from previous assignments. For this assignment, it's highly recommended to use Node.js 16. Open your terminal and run this command to confirm you're running some version 16.x.x:
+
+```sh
+node --version
+```
+
+If not, you can install [Node.js](https://nodejs.org/en/) from the official site.
+
+### Get the starter code
+
+Run this command to clone the code with `git`:
+
+```sh
+git clone https://github.com/stanford-web-security/assign4.git
+```
+
+Enter the folder you just created:
+
+```sh
+cd assign4
+```
+
+Install the necessary local dependencies with `npm`:
+
+```sh
+npm install
+```
+
 ## Background
 
 In this assignment, you will learn how web application vulnerabilities can be exploited and how to defend against these attacks. This assignment has a bit of overlap with the XSS challenges in [Assignment 2](/assign2), but goes beyond XSS and offers you the chance to try a variety of other attacks.
