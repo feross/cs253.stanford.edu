@@ -1,6 +1,6 @@
 ## Assignment 4 – Swiss Cheese Security 🧀
 
-- **Points:** 45
+- **Points:** 43
 - **Due:** Friday, December 3 at 11:59pm
 
 Welcome to Assignment 4 for [CS 253: Web Security](https://cs253.stanford.edu). ✨
@@ -58,7 +58,7 @@ In **white-box hacking**, you have access to the source code and can use automat
 
 Security researchers use both hacking techniques, often in combination, in real life.
 
-## Part 1: Hacking (42 points)
+## Part 1: Hacking (40 points)
 
 The assignment is split into sections for each type of attack. For each section, you'll learn about a new type of attack and try using it against the Gruyere web server.
 
