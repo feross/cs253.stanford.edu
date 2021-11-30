@@ -80,6 +80,10 @@ The Gruyere source code is available online so that you can use it for white-box
 
 Include your solution to each challenge in `REPORT.md`. It's okay if your solution matches the official solution - just include it anyway.
 
+You only need to include the exploits in your answers. No need to discuss fixes, though you should read through this content (it’s fair game for the final).
+
+You only need to answer the initial question. No need to answer the followup questions which appear within some "Exploit and Fix" sections, though again you should read through this content.
+
 ## Part 2: Survey (3 points)
 Your feedback matters a lot! Please help us improve by answering the survey questions in SURVEY.md. As a reward, enjoy some easy points!
 
