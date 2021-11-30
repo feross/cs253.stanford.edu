@@ -258,7 +258,7 @@ If you have questions about these policies, please ask us.
 
 ### Nov 30: DNS rebinding attacks
 
-<!-- - [Slides](lectures/Lecture%2019.pdf) -->
+- [Slides](lectures/Lecture%2019.pdf)
 <!-- - [Video](https://www.youtube.com/watch?v=bZW_55LIz0w) -->
 - Reading
   - [Millions of Streaming Devices Are Vulnerable to a Retro Web Attack](https://www.wired.com/story/chromecast-roku-sonos-dns-rebinding-vulnerability/)
