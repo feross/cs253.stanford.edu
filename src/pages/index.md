@@ -17,6 +17,7 @@ To email the staff, use: [cs253-aut2122-staff@lists.stanford.edu](mailto:cs253-a
 ### Instructor
 
 - Feross Aboukhadijeh ([feross@cs.stanford.edu](mailto:feross@cs.stanford.edu))
+  - Stanford CS BS '12, MS '20, [Socket](https://socket.dev) founder & CEO
 
 ### Teaching Assistants
 
@@ -241,8 +242,7 @@ If you have questions about these policies, please ask us.
 - [Slides](lectures/Lecture%2017.pdf)
 <!-- - [Video](https://www.youtube.com/watch?v=wLgcb4jZwGM) -->
 - Reading
-  - [Private Network Access](https://developer.chrome.com/blog/private-network-access-update/)
-
+  - None
 ### Nov 18: Web Security in the Real World
 
 - **Guest Lecture by [Yan Zhu](https://blog.azuki.vip/) ([Brave](https://brave.com))**
@@ -263,13 +263,17 @@ If you have questions about these policies, please ask us.
 - Reading
   - [Millions of Streaming Devices Are Vulnerable to a Retro Web Attack](https://www.wired.com/story/chromecast-roku-sonos-dns-rebinding-vulnerability/)
   - [Protecting Browsers from DNS Rebinding Attacks](https://crypto.stanford.edu/dns/dns-rebinding.pdf)
+  - [Private Network Access](https://developer.chrome.com/blog/private-network-access-update/)
 
 ### Dec 02: Browser architecture, Writing secure code
 
-<!-- - [Slides](lectures/Lecture%2020.pdf) -->
+- [Slides](lectures/Lecture%2020.pdf)
 <!-- - [Video](https://www.youtube.com/watch?v=5aguccOpGes) -->
 - Reading
-  - None
+  - [Google Chrome Exploitation – A Case Study](https://unit42.paloaltonetworks.com/google-chrome-exploitation-case-study/)
+  - [The Rule of 2](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/security/rule-of-2.md)
+  - [statement on event-stream compromise](https://gist.github.com/dominictarr/9fd9c1024c94592bc7268d36b8d83b3a)
+  - Browse: [Socket: open source supply chain security SCA analysis tool](https://socket.dev)
 
 ## Assignments
 
